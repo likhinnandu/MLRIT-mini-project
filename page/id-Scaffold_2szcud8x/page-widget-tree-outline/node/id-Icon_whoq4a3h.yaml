@@ -1,0 +1,20 @@
+key: Icon_whoq4a3h
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+    iconDataValue:
+      inputValue:
+        codePoint: 63029
+        family: MaterialIcons
+        matchTextDirection: false
+        name: check_circle_rounded
+  responsiveVisibility: {}
+parameterValues: {}

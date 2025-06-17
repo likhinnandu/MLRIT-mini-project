@@ -1,0 +1,12 @@
+key: Row_fk3x645e
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_center
+    crossAxisAlignment: cross_axis_end
+  padding:
+    type: FF_PADDING_ONLY
+    bottomValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}

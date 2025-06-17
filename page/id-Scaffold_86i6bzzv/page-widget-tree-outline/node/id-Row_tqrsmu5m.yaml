@@ -1,0 +1,40 @@
+key: Row_tqrsmu5m
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_center
+    crossAxisAlignment: cross_axis_end
+    minSizeValue:
+      inputValue: true
+      mostRecentInputValue: true
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  alignment:
+    xValue:
+      inputValue: 0.6499999999999999
+      mostRecentInputValue: 0.6499999999999999
+  responsiveVisibility: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        slide:
+          beginDx:
+            inputValue:
+              serializedValue: "-200"
+          beginDy:
+            inputValue:
+              serializedValue: "0"
+          endDx:
+            inputValue:
+              serializedValue: "0"
+          endDy:
+            inputValue:
+              serializedValue: "0"
+        duration:
+          inputValue:
+            serializedValue: "600"
+    applyInitialState: true

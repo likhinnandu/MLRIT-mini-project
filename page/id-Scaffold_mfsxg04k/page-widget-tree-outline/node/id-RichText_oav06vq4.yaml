@@ -1,0 +1,11 @@
+key: RichText_oav06vq4
+type: RichText
+props:
+  responsiveVisibility: {}
+  richText:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      fontSizeValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+parameterValues: {}

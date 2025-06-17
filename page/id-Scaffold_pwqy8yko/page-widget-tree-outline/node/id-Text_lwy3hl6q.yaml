@@ -1,0 +1,20 @@
+key: Text_lwy3hl6q
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 4e0x099m
+    selectable: false
+    textValue:
+      inputValue: Fat
+      mostRecentInputValue: Fat
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

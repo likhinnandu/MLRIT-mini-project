@@ -1,0 +1,53 @@
+key: Container_ppbn894q
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: 180
+          mostRecentInputValue: 180
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        topRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        bottomLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        bottomRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        allValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_ASSET
+        pathValue:
+          inputValue: projects/fit-me-nzsmbv/assets/6xjkmxki1tp6/map.png
+          mostRecentInputValue: projects/fit-me-nzsmbv/assets/6xjkmxki1tp6/map.png
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: SECONDARY_BACKGROUND
+    maxDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}
+parameterValues: {}

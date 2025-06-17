@@ -1,0 +1,20 @@
+key: Text_gibcvltb
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 4un00lgv
+    selectable: false
+    textValue:
+      inputValue: 32%
+      mostRecentInputValue: 32%
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

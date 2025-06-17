@@ -1,0 +1,7 @@
+key: Column_lxv9opgj
+type: Column
+props:
+  column:
+    mainAxisAlignment: main_axis_space_evenly
+    primary: true
+  responsiveVisibility: {}

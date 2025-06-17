@@ -1,0 +1,23 @@
+key: Text_0tl3pgbf
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: pxwm4vxo
+    selectable: false
+    textValue:
+      inputValue: "Thursday, 21 May 2023"
+      mostRecentInputValue: "Thursday, 21 May 2023"
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

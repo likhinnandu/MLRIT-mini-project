@@ -1,0 +1,36 @@
+key: Text_8umg4tik
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: c07okrx0
+    selectable: false
+    textValue:
+      inputValue: What is your weight?
+      mostRecentInputValue: What is your weight?
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    fontWeightValue:
+      inputValue: w500
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 84
+      mostRecentInputValue: 84
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 84
+      mostRecentInputValue: 84
+  responsiveVisibility: {}
+parameterValues: {}

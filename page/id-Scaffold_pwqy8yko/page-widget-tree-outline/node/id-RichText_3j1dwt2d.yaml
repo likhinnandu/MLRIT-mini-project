@@ -1,0 +1,31 @@
+key: RichText_3j1dwt2d
+type: RichText
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 60
+      mostRecentInputValue: 60
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 60
+      mostRecentInputValue: 60
+  responsiveVisibility: {}
+  richText:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      fontSizeValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+      fontWeightValue:
+        inputValue: w500
+      textAlignValue:
+        inputValue: ALIGN_CENTER
+parameterValues: {}

@@ -1,0 +1,6 @@
+key: Column_lupqn2x1
+type: Column
+props:
+  column:
+    primary: true
+  responsiveVisibility: {}

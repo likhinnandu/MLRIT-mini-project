@@ -1,0 +1,26 @@
+key: RichText_5pcremkl
+type: RichText
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+  richText:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      fontSizeValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      colorValue:
+        inputValue:
+          themeColor: TERTIARY
+        mostRecentInputValue:
+          themeColor: TERTIARY
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

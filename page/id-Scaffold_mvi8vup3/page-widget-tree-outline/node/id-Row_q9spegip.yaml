@@ -1,0 +1,16 @@
+key: Row_q9spegip
+type: Row
+props:
+  row: {}
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    topValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}

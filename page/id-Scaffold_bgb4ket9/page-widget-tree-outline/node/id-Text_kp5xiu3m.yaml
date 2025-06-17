@@ -1,0 +1,18 @@
+key: Text_kp5xiu3m
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: xgmfkaxl
+    selectable: false
+    textValue:
+      inputValue: "10"
+      mostRecentInputValue: "10"
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+  responsiveVisibility: {}
+parameterValues: {}

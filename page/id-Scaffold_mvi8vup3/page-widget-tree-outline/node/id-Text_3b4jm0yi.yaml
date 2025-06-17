@@ -1,0 +1,16 @@
+key: Text_3b4jm0yi
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: idsusr1i
+    selectable: false
+    textValue:
+      inputValue: Serving (250 g)
+    fontWeightValue:
+      inputValue: w400
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+parameterValues: {}

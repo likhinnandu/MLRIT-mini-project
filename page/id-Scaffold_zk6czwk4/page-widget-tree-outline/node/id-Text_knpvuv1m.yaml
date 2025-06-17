@@ -1,0 +1,26 @@
+key: Text_knpvuv1m
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: tg9io9u0
+    selectable: false
+    textValue:
+      inputValue: 4 km
+      mostRecentInputValue: 4 km
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+  responsiveVisibility: {}
+parameterValues: {}

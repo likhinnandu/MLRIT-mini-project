@@ -1,0 +1,28 @@
+key: Text_g6gqjqkw
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 1ifso95r
+    selectable: false
+    textValue:
+      inputValue: of daily goal
+      mostRecentInputValue: of daily goal
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        value: "4286743170"
+      mostRecentInputValue:
+        value: "4286743170"
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,24 @@
+name: Test mifisica
+authPageInfo:
+  homePageNodeKeyRef:
+    key: Scaffold_fw8bolik
+  signInPageNodeKeyRef:
+    key: Scaffold_98ccupnr
+appSettings:
+  downloadUnusedAssets: true
+  advancedSettings:
+    canvasKitSettings: {}
+routingSettings:
+  overrideDefaultTransition: false
+  transition:
+    durationMillis: 300
+  enableRouting: true
+  enableFirebaseDynamicLinks: false
+  pagesAreSubroutesOfRoot: true
+initialPageKeyRef:
+  key: Scaffold_fw8bolik
+allAppNames:
+  appNames:
+    PROD:
+      packageName: com.mycompany.mifisica
+      displayName: ""

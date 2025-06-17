@@ -1,0 +1,68 @@
+key: Container_fevwj5kk
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 156
+          mostRecentInputValue: 156
+      height:
+        pixelsValue:
+          inputValue: 216
+          mostRecentInputValue: 216
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        topRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        bottomLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        bottomRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        allValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      boxShadow:
+        blurRadiusValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        colorValue:
+          inputValue:
+            value: "218103808"
+          mostRecentInputValue:
+            value: "218103808"
+        dxValue:
+          inputValue: 0
+          mostRecentInputValue: 0
+        dyValue:
+          inputValue: 0
+          mostRecentInputValue: 0
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          paletteColorName: tertiary400
+        mostRecentInputValue:
+          paletteColorName: tertiary400
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}
+parameterValues: {}

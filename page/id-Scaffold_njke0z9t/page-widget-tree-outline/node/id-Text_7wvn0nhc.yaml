@@ -1,0 +1,23 @@
+key: Text_7wvn0nhc
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: fjze32lg
+    selectable: false
+    textValue:
+      inputValue: Commonwealth Club
+      mostRecentInputValue: Commonwealth Club
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

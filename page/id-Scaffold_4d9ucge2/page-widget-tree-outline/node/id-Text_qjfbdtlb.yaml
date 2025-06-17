@@ -1,0 +1,26 @@
+key: Text_qjfbdtlb
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: zx60f5kr
+    selectable: false
+    textValue:
+      inputValue: TARGET
+      mostRecentInputValue: TARGET
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+    letterSpacingValue:
+      inputValue: 0.6
+      mostRecentInputValue: 0.6
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

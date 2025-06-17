@@ -1,0 +1,59 @@
+key: Container_z5ohsojd
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 42
+          mostRecentInputValue: 42
+      height:
+        pixelsValue:
+          inputValue: 42
+          mostRecentInputValue: 42
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 14
+          mostRecentInputValue: 14
+        topRightValue:
+          inputValue: 14
+          mostRecentInputValue: 14
+        bottomLeftValue:
+          inputValue: 14
+          mostRecentInputValue: 14
+        bottomRightValue:
+          inputValue: 14
+          mostRecentInputValue: 14
+        allValue:
+          inputValue: 14
+          mostRecentInputValue: 14
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+        pathValue:
+          inputValue: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwxNXx8cHJvZmlsZXxlbnwwfHx8fDE3MTc5NjAwNDF8MA&ixlib=rb-4.0.3&q=80&w=400
+          mostRecentInputValue: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwxNXx8cHJvZmlsZXxlbnwwfHx8fDE3MTc5NjAwNDF8MA&ixlib=rb-4.0.3&q=80&w=400
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: SECONDARY_BACKGROUND
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

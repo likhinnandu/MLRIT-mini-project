@@ -1,0 +1,31 @@
+key: RichText_hbgttkl0
+type: RichText
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 72
+      mostRecentInputValue: 72
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 72
+      mostRecentInputValue: 72
+  responsiveVisibility: {}
+  richText:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      fontSizeValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      colorValue:
+        inputValue:
+          value: "4292396469"
+        mostRecentInputValue:
+          value: "4292396469"
+      fontWeightValue:
+        inputValue: w500
+      textAlignValue:
+        inputValue: ALIGN_CENTER
+parameterValues: {}

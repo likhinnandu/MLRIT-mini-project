@@ -1,0 +1,23 @@
+key: Text_68oiwjwi
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: tkmrc3gb
+    selectable: false
+    textValue:
+      inputValue: MAR
+      mostRecentInputValue: MAR
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_BACKGROUND
+      mostRecentInputValue:
+        themeColor: PRIMARY_BACKGROUND
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

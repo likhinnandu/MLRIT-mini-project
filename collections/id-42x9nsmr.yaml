@@ -1,0 +1,55 @@
+identifier:
+  name: users
+  key: 42x9nsmr
+fields:
+  email:
+    identifier:
+      name: email
+    dataType:
+      scalarType: String
+  display_name:
+    identifier:
+      name: display_name
+    dataType:
+      scalarType: String
+  photo_url:
+    identifier:
+      name: photo_url
+    dataType:
+      scalarType: ImagePath
+  uid:
+    identifier:
+      name: uid
+    dataType:
+      scalarType: String
+  created_time:
+    identifier:
+      name: created_time
+    dataType:
+      scalarType: DateTime
+  phone_number:
+    identifier:
+      name: phone_number
+    dataType:
+      scalarType: String
+  edited_time:
+    identifier:
+      name: edited_time
+    dataType:
+      scalarType: DateTime
+  bio:
+    identifier:
+      name: bio
+    dataType:
+      scalarType: String
+  user_name:
+    identifier:
+      name: user_name
+    dataType:
+      scalarType: String
+  password:
+    identifier:
+      name: password
+    dataType:
+      scalarType: String
+description: ""

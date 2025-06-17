@@ -1,0 +1,46 @@
+key: Text_sdu8gqzn
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 7mtg8r7d
+    selectable: false
+    textValue:
+      inputValue: "The best buddy to make you push \npast your limits"
+      mostRecentInputValue: "The best buddy to make you push \npast your limits"
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        value: "3439329279"
+      mostRecentInputValue:
+        value: "3439329279"
+    fontWeightValue:
+      inputValue: w400
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    bottomValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    allValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  alignment:
+    xValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+parameterValues: {}

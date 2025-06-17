@@ -1,0 +1,196 @@
+key: Chart_7dlyg3d3
+type: Chart
+props:
+  responsiveVisibility: {}
+  chart:
+    chartType: LINE
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: 72
+          mostRecentInputValue: 72
+    lineChart:
+      lines:
+        - curvedValue:
+            inputValue: true
+            mostRecentInputValue: true
+          lineWidthValue:
+            inputValue: 2
+            mostRecentInputValue: 2
+      axisInfo:
+        axisLabels:
+          bottom:
+            title:
+              fontSizeValue:
+                inputValue: 14
+                mostRecentInputValue: 14
+            labelInterval: 10
+            labelFormat:
+              labelFormatType: DEFAULT
+          left:
+            title:
+              fontSizeValue:
+                inputValue: 14
+                mostRecentInputValue: 14
+            labelInterval: 10
+            labelFormat:
+              labelFormatType: DEFAULT
+        axisBounds: {}
+    data:
+      - numbersList:
+          xData:
+            source: SAMPLE_DATA
+            baseVariable:
+              randomData:
+                isList: true
+                name:
+                  nameType: FIRST
+                minLength:
+                  inputValue:
+                    serializedValue: "4"
+                maxLength:
+                  inputValue:
+                    serializedValue: "4"
+          yData:
+            source: SAMPLE_DATA
+            baseVariable:
+              randomData:
+                isList: true
+                name:
+                  nameType: FIRST
+                minLength:
+                  inputValue:
+                    serializedValue: "4"
+                maxLength:
+                  inputValue:
+                    serializedValue: "4"
+        sourceType: NUMBERS_LIST
+        legendName:
+          translationIdentifier:
+            key: t8nwja33
+          textValue:
+            inputValue: Demo
+            mostRecentInputValue: Demo
+        colorValue:
+          inputValue:
+            value: "4285621731"
+          mostRecentInputValue:
+            value: "4285621731"
+    barChart:
+      bars:
+        - {}
+      barChartAlignment: main_axis_center
+      axisInfo:
+        axisLabels:
+          bottom:
+            title:
+              fontSizeValue:
+                inputValue: 14
+                mostRecentInputValue: 14
+            labelInterval: 10
+            labelFormat:
+              labelFormatType: DEFAULT
+          left:
+            title:
+              fontSizeValue:
+                inputValue: 14
+                mostRecentInputValue: 14
+            labelInterval: 10
+            labelFormat:
+              labelFormatType: DEFAULT
+        axisBounds: {}
+      barWidthValue:
+        inputValue: 25
+        mostRecentInputValue: 25
+      groupSpaceValue:
+        inputValue: 5
+        mostRecentInputValue: 5
+    tooltipInfo:
+      enableTooltipValue:
+        inputValue: false
+        mostRecentInputValue: false
+    legendInfo:
+      textStyle:
+        themeStyle: BODY_MEDIUM
+      alignment:
+        xValue:
+          inputValue: 1
+          mostRecentInputValue: 1
+        yValue:
+          inputValue: 1
+          mostRecentInputValue: 1
+      textPadding:
+        type: FF_PADDING_ONLY
+        leftValue:
+          inputValue: 5
+          mostRecentInputValue: 5
+      legendDimensions:
+        width:
+          pixelsValue:
+            inputValue: 100
+            mostRecentInputValue: 100
+        height:
+          pixelsValue:
+            inputValue: 50
+            mostRecentInputValue: 50
+      legendPadding:
+        type: FF_PADDING_ONLY
+        leftValue:
+          inputValue: 5
+          mostRecentInputValue: 5
+        rightValue:
+          inputValue: 5
+          mostRecentInputValue: 5
+      indicatorSizeValue:
+        inputValue: 10
+        mostRecentInputValue: 10
+      legendBorderColorValue:
+        inputValue:
+          value: "4278190080"
+        mostRecentInputValue:
+          value: "4278190080"
+      legendBorderWidthValue:
+        inputValue: 1
+        mostRecentInputValue: 1
+    hasBeenUpdated: true
+    pieChart:
+      sections:
+        - radius: 100
+        - radius: 100
+      sectionLabelStyle:
+        themeStyle: HEADLINE_SMALL
+      sectionLabelType: NONE
+      labelFormat:
+        labelFormatType: DEFAULT
+      listPieChartColors:
+        - inputValue:
+            color:
+              value: "4292039907"
+      donutHoleColor:
+        inputValue:
+          color:
+            value: "4294967295"
+      donutHoleRadiusValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+    backgroundColorValue:
+      inputValue:
+        value: "16777215"
+      mostRecentInputValue:
+        value: "16777215"
+    borderColorValue:
+      inputValue:
+        value: "4278190080"
+      mostRecentInputValue:
+        value: "4278190080"
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    showBorderValue:
+      inputValue: false
+      mostRecentInputValue: false
+parameterValues: {}

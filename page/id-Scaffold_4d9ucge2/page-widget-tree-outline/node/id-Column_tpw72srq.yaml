@@ -1,0 +1,10 @@
+key: Column_tpw72srq
+type: Column
+props:
+  column:
+    primary: true
+    minSizeValue:
+      inputValue: true
+      mostRecentInputValue: true
+  responsiveVisibility: {}
+name: Chart

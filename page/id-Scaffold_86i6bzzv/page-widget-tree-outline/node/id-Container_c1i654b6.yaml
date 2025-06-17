@@ -1,0 +1,53 @@
+key: Container_c1i654b6
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 84
+          mostRecentInputValue: 84
+      height:
+        pixelsValue:
+          inputValue: 84
+          mostRecentInputValue: 84
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        topRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        bottomLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        bottomRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        allValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+    maxDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+    rightValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,91 @@
+key: Container_ib9mq02p
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 156
+          mostRecentInputValue: 156
+      height:
+        pixelsValue:
+          inputValue: 216
+          mostRecentInputValue: 216
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        topRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        allValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          value: "4289695487"
+        mostRecentInputValue:
+          value: "4289695487"
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  responsiveVisibility: {}
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        slide:
+          beginDx:
+            inputValue:
+              serializedValue: "0"
+          beginDy:
+            inputValue:
+              serializedValue: "80"
+          endDx:
+            inputValue:
+              serializedValue: "0"
+          endDy:
+            inputValue:
+              serializedValue: "0"
+        delay:
+          inputValue:
+            serializedValue: "400"
+        duration:
+          inputValue:
+            serializedValue: "600"
+      - curve: EASE_IN_OUT
+        fade:
+          begin:
+            inputValue:
+              serializedValue: "0"
+          end:
+            inputValue:
+              serializedValue: "1"
+        delay:
+          inputValue:
+            serializedValue: "400"
+        duration:
+          inputValue:
+            serializedValue: "600"
+    useSameInterval: true
+    applyInitialState: true
+    delay:
+      inputValue:
+        serializedValue: "400"
+    duration:
+      inputValue:
+        serializedValue: "600"

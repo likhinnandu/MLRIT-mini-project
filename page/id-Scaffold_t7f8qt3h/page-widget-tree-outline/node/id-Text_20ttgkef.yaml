@@ -1,0 +1,26 @@
+key: Text_20ttgkef
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: jknxqc80
+    selectable: false
+    textValue:
+      inputValue: Uday Kumar
+      mostRecentInputValue: Uday Kumar
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

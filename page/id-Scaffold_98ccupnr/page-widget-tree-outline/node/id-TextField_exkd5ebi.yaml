@@ -1,0 +1,79 @@
+key: TextField_exkd5ebi
+type: TextField
+props:
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  textField:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_TEXT
+        mostRecentInputValue:
+          themeColor: SECONDARY_TEXT
+    inputDecoration:
+      inputBorderType: underline
+      contentPadding:
+        type: FF_PADDING_ONLY
+        leftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        rightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      hintStyle:
+        themeStyle: BODY_SMALL
+        fontSizeValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        fontWeightValue:
+          inputValue: w400
+      hintText:
+        translationIdentifier:
+          key: 98id1zy3
+        textValue:
+          inputValue: Enter your Number
+          mostRecentInputValue: Enter your Number
+      denseValue:
+        inputValue: false
+        mostRecentInputValue: false
+    passwordField: false
+    keyboardType: NUMBER
+    showClearButton: false
+    filter:
+      isCustom: false
+      patternValue:
+        inputValue: "[0-9]"
+        mostRecentInputValue: "[0-9]"
+    submitType: NEXT
+    maxLengthEnforcement: NOT_ENFORCED
+    hideMaxLengthCounter: true
+    maxLinesValue:
+      inputValue: 1
+    autofocusValue:
+      inputValue: true
+      mostRecentInputValue: true
+    maxLengthValue:
+      inputValue: 10
+      mostRecentInputValue: 10
+    trailingIconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 22
+          mostRecentInputValue: 22
+        colorValue:
+          inputValue:
+            value: "4285887861"
+          mostRecentInputValue:
+            value: "4285887861"
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+name: mobileno
+parameterValues: {}
+valueKey: {}

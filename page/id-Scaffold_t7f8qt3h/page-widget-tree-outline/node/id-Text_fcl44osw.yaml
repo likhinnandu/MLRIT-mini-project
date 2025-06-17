@@ -1,0 +1,31 @@
+key: Text_fcl44osw
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: r88jknnh
+    selectable: false
+    textValue:
+      inputValue: kg
+      mostRecentInputValue: kg
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    bottomValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  responsiveVisibility: {}
+parameterValues: {}

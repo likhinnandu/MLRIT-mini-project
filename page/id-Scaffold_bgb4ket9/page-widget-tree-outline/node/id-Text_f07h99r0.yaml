@@ -1,0 +1,15 @@
+key: Text_f07h99r0
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: een067d6
+    selectable: false
+    textValue:
+      inputValue: Open Water Swim
+      mostRecentInputValue: Open Water Swim
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

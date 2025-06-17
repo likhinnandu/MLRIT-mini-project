@@ -1,0 +1,71 @@
+key: Button_bec789gm
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_SMALL
+      translationIdentifier:
+        key: e7am69wx
+      textValue:
+        inputValue: Follow
+        mostRecentInputValue: Follow
+      fontSizeValue:
+        inputValue: 13
+        mostRecentInputValue: 13
+      colorValue:
+        inputValue:
+          paletteColorName: White
+        mostRecentInputValue:
+          paletteColorName: White
+      fontWeightValue:
+        inputValue: w500
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      topRightValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      bottomLeftValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      bottomRightValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      allValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+    innerPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      rightValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+    dimensions:
+      width: {}
+      height:
+        pixelsValue:
+          inputValue: 42
+          mostRecentInputValue: 42
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        value: "4284874727"
+      mostRecentInputValue:
+        value: "4284874727"
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+  visibility: {}
+  responsiveVisibility: {}
+parameterValues: {}

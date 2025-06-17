@@ -1,0 +1,31 @@
+key: Text_zcxykdnw
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 192rc87d
+    selectable: false
+    textValue:
+      inputValue: GO PREMIUM
+      mostRecentInputValue: GO PREMIUM
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        value: "4278216447"
+      mostRecentInputValue:
+        value: "4278216447"
+    letterSpacingValue:
+      inputValue: 0.4
+      mostRecentInputValue: 0.4
+    fontWeightValue:
+      inputValue: w500
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

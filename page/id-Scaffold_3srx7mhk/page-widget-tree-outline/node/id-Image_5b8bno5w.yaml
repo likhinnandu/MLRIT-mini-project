@@ -1,0 +1,26 @@
+key: Image_5b8bno5w
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 135
+          mostRecentInputValue: 135
+      height:
+        pixelsValue:
+          inputValue: 82
+          mostRecentInputValue: 82
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/mi-fisica-fakloo/assets/m48mks7ljkcc/WhatsApp_Image_2023-05-05_at_7.48.01_PM.jpeg
+      mostRecentInputValue: projects/mi-fisica-fakloo/assets/m48mks7ljkcc/WhatsApp_Image_2023-05-05_at_7.48.01_PM.jpeg
+  padding:
+    type: FF_PADDING_ONLY
+    bottomValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+parameterValues: {}

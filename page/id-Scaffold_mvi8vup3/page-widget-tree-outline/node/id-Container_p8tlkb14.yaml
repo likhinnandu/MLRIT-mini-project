@@ -1,0 +1,50 @@
+key: Container_p8tlkb14
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: 54
+          mostRecentInputValue: 54
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        topRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        allValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: SECONDARY_BACKGROUND
+    maxDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+parameterValues: {}

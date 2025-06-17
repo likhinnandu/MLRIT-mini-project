@@ -1,0 +1,23 @@
+key: Text_ss7h5c9s
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 2djo8cde
+    selectable: false
+    textValue:
+      inputValue: SAT
+      mostRecentInputValue: SAT
+    colorValue:
+      inputValue:
+        value: "4294111986"
+      mostRecentInputValue:
+        value: "4294111986"
+    letterSpacingValue:
+      inputValue: 0.4
+      mostRecentInputValue: 0.4
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

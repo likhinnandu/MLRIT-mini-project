@@ -1,0 +1,45 @@
+key: Text_6zcr3fsh
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: wf4btrxq
+    selectable: false
+    textValue:
+      inputValue: Enter a username and a strong password for your account
+      mostRecentInputValue: Enter a username and a strong password for your account
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    letterSpacingValue:
+      inputValue: 0.2
+      mostRecentInputValue: 0.2
+    fontWeightValue:
+      inputValue: w400
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 84
+      mostRecentInputValue: 84
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 84
+      mostRecentInputValue: 84
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    animatedOpacity: {}
+parameterValues: {}
+valueKey: {}

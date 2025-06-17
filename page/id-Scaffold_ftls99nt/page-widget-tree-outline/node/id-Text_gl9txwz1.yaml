@@ -1,0 +1,33 @@
+key: Text_gl9txwz1
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 23na4ozu
+    selectable: false
+    textValue:
+      inputValue: To give you a customize experience we need to know your gender
+      mostRecentInputValue: To give you a customize experience we need to know your gender
+    colorValue:
+      inputValue:
+        paletteColorName: btnText
+      mostRecentInputValue:
+        paletteColorName: btnText
+    letterSpacingValue:
+      inputValue: 0.2
+      mostRecentInputValue: 0.2
+    fontWeightValue:
+      inputValue: w400
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 84
+      mostRecentInputValue: 84
+    rightValue:
+      inputValue: 84
+      mostRecentInputValue: 84
+  responsiveVisibility: {}
+parameterValues: {}

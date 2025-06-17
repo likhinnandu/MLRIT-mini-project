@@ -1,0 +1,26 @@
+key: Text_kgphoq17
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: pa3ck2s8
+    selectable: false
+    textValue:
+      inputValue: AGE
+      mostRecentInputValue: AGE
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    letterSpacingValue:
+      inputValue: 0.6
+      mostRecentInputValue: 0.6
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

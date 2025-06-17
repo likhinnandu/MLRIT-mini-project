@@ -1,0 +1,21 @@
+key: Text_pb3r2zko
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: hs2f6cai
+    selectable: false
+    textValue:
+      inputValue: Welcome to
+      mostRecentInputValue: Welcome to
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        paletteColorName: primaryBtnText
+      mostRecentInputValue:
+        paletteColorName: primaryBtnText
+  responsiveVisibility: {}
+parameterValues: {}

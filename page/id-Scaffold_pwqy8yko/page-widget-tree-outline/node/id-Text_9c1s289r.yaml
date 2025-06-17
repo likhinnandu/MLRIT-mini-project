@@ -1,0 +1,26 @@
+key: Text_9c1s289r
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: vvuwyau7
+    selectable: false
+    textValue:
+      inputValue: 40%
+      mostRecentInputValue: 40%
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        paletteColorName: btnText
+      mostRecentInputValue:
+        paletteColorName: btnText
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}
+parameterValues: {}

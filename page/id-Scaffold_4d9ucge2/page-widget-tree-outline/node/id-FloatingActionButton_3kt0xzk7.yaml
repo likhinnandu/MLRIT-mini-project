@@ -1,0 +1,12 @@
+key: FloatingActionButton_3kt0xzk7
+type: FloatingActionButton
+props:
+  floatingActionButton:
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+    elevationValue:
+      inputValue: 8
+      mostRecentInputValue: 8

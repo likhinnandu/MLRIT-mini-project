@@ -1,0 +1,25 @@
+key: Text_jni0xzg6
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ayqzokew
+    selectable: false
+    textValue:
+      inputValue: lbs
+      mostRecentInputValue: lbs
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    bottomValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

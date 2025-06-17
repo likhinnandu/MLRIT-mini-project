@@ -1,0 +1,52 @@
+key: Container_secsojk7
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 60
+          mostRecentInputValue: 60
+      height:
+        pixelsValue:
+          inputValue: 60
+          mostRecentInputValue: 60
+    boxDecoration:
+      borderRadius:
+        topLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        topRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+      borderColorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

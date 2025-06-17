@@ -1,0 +1,39 @@
+key: Container_887sx1ky
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: 144
+          mostRecentInputValue: 144
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ONLY
+        topLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        topRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+        pathValue:
+          inputValue: https://images.unsplash.com/photo-1621625069869-07706581abec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+          mostRecentInputValue: https://images.unsplash.com/photo-1621625069869-07706581abec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+    maxDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  responsiveVisibility: {}
+parameterValues: {}

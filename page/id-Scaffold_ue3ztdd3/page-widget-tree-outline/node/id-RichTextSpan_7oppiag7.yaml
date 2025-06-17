@@ -1,0 +1,23 @@
+key: RichTextSpan_7oppiag7
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      fontFamily: Rubik
+      isCustomFont: false
+      translationIdentifier:
+        key: xlayf0l1
+      textValue:
+        inputValue: "STEP "
+        mostRecentInputValue: "STEP "
+      fontSizeValue:
+        inputValue: 14
+        mostRecentInputValue: 14
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+      fontWeightValue:
+        inputValue: w500
+parameterValues: {}

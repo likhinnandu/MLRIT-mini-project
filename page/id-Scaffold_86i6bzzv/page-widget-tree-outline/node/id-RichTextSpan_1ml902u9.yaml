@@ -1,0 +1,12 @@
+key: RichTextSpan_1ml902u9
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: BODY_MEDIUM
+      translationIdentifier:
+        key: 9g10x8qf
+      textValue:
+        inputValue: 1x
+        mostRecentInputValue: 1x
+parameterValues: {}

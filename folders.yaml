@@ -1,0 +1,31 @@
+rootFolders:
+  - key: 3vlw5bt2
+    name: pages
+    children:
+      - key: mvvalxjy
+        name: Login_Pages
+      - key: av8t78jw
+        name: Trackers
+widgetClassKeyToFolderKey:
+  Scaffold_3srx7mhk: mvvalxjy
+  Scaffold_mfsxg04k: 3vlw5bt2
+  Scaffold_98ccupnr: mvvalxjy
+  Scaffold_fw8bolik: mvvalxjy
+  Scaffold_0whc5ktg: mvvalxjy
+  Scaffold_mujrk7fs: mvvalxjy
+  Scaffold_ftls99nt: mvvalxjy
+  Scaffold_0zpa3gdw: mvvalxjy
+  Scaffold_ue3ztdd3: mvvalxjy
+  Scaffold_4bql011k: mvvalxjy
+  Scaffold_59jr1vmu: mvvalxjy
+  Scaffold_4d9ucge2: av8t78jw
+  Scaffold_zk6czwk4: av8t78jw
+  Scaffold_skuu07in: 3vlw5bt2
+  Scaffold_bgb4ket9: 3vlw5bt2
+  Scaffold_njke0z9t: 3vlw5bt2
+  Scaffold_t7f8qt3h: 3vlw5bt2
+  Scaffold_86i6bzzv: av8t78jw
+  Scaffold_pwqy8yko: av8t78jw
+  Scaffold_mvi8vup3: 3vlw5bt2
+  Scaffold_2szcud8x: 3vlw5bt2
+  Scaffold_q9c1s0sd: mvvalxjy

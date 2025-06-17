@@ -1,0 +1,26 @@
+key: Text_6kni7r2j
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 6fbb7ujq
+    selectable: false
+    textValue:
+      inputValue: HYDRATION
+      mostRecentInputValue: HYDRATION
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        paletteColorName: btnText
+      mostRecentInputValue:
+        paletteColorName: btnText
+    letterSpacingValue:
+      inputValue: 0.2
+      mostRecentInputValue: 0.2
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

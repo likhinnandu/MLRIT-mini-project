@@ -1,0 +1,16 @@
+key: RichTextSpan_8kk4ae29
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: csx8i1ni
+      textValue:
+        inputValue: 500 cal
+        mostRecentInputValue: 500 cal
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+parameterValues: {}

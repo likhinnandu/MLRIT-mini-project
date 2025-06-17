@@ -1,0 +1,8 @@
+key: RichText_4k9uqxgc
+type: RichText
+props:
+  responsiveVisibility: {}
+  richText:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+parameterValues: {}

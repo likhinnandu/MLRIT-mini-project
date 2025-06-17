@@ -1,0 +1,16 @@
+key: Text_ey5lb87g
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: cv6qqdas
+    selectable: false
+    textValue:
+      inputValue: Health Score
+      mostRecentInputValue: Health Score
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,20 @@
+key: Text_brsyk9ff
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: rzxa35mx
+    selectable: false
+    textValue:
+      inputValue: "21"
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+  responsiveVisibility: {}
+parameterValues: {}

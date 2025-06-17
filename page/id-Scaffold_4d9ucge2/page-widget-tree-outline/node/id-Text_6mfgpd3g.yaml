@@ -1,0 +1,21 @@
+key: Text_6mfgpd3g
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 8oar6jnv
+    selectable: false
+    textValue:
+      inputValue: "60.2"
+      mostRecentInputValue: "60.2"
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+  responsiveVisibility: {}
+parameterValues: {}

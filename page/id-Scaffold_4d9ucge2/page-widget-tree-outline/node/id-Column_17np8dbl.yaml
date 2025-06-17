@@ -1,0 +1,8 @@
+key: Column_17np8dbl
+type: Column
+props:
+  column:
+    primary: true
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}

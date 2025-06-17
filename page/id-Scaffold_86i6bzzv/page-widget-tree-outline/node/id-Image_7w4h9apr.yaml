@@ -1,0 +1,62 @@
+key: Image_7w4h9apr
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+      height:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/eerbm3xm9alv/glass.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/eerbm3xm9alv/glass.svg
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    topValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    bottomValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    allValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        shake:
+          hz:
+            inputValue:
+              serializedValue: "5"
+          offsetDx:
+            inputValue:
+              serializedValue: "0"
+          offsetDy:
+            inputValue:
+              serializedValue: "0"
+          rotationDegrees:
+            inputValue:
+              serializedValue: "5"
+        delay:
+          inputValue:
+            serializedValue: "600"
+        duration:
+          inputValue:
+            serializedValue: "1000"
+    applyInitialState: true

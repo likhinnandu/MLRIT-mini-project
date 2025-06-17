@@ -1,0 +1,31 @@
+key: Text_2alds0p7
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 09qndz7k
+    selectable: false
+    textValue:
+      inputValue: Almost there! Keep hydrated
+      mostRecentInputValue: Almost there! Keep hydrated
+    colorValue:
+      inputValue:
+        paletteColorName: btnText
+      mostRecentInputValue:
+        paletteColorName: btnText
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 72
+      mostRecentInputValue: 72
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 72
+      mostRecentInputValue: 72
+  responsiveVisibility: {}
+parameterValues: {}

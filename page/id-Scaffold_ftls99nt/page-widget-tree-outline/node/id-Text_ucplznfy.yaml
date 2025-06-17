@@ -1,0 +1,20 @@
+key: Text_ucplznfy
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ti8aw6sq
+    selectable: false
+    textValue:
+      inputValue: Male
+      mostRecentInputValue: Male
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

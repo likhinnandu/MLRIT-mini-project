@@ -1,0 +1,26 @@
+key: Text_ei55xesa
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: e93f38a7
+    selectable: false
+    textValue:
+      inputValue: DINNER
+      mostRecentInputValue: DINNER
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    letterSpacingValue:
+      inputValue: 0.4
+      mostRecentInputValue: 0.4
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,18 @@
+key: RichText_kamkugzz
+type: RichText
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+  richText:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      fontSizeValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      fontWeightValue:
+        inputValue: w400
+parameterValues: {}

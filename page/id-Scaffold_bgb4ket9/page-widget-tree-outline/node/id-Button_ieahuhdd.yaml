@@ -1,0 +1,70 @@
+key: Button_ieahuhdd
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_SMALL
+      translationIdentifier:
+        key: mx4h91jq
+      textValue:
+        inputValue: Join
+        mostRecentInputValue: Join
+      fontSizeValue:
+        inputValue: 14
+        mostRecentInputValue: 14
+      colorValue:
+        inputValue:
+          paletteColorName: tertiary400
+        mostRecentInputValue:
+          paletteColorName: tertiary400
+      fontWeightValue:
+        inputValue: w400
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      topRightValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      bottomLeftValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      bottomRightValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      allValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+    innerPadding:
+      type: FF_PADDING_ONLY
+      leftValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+      rightValue:
+        inputValue: 24
+        mostRecentInputValue: 24
+    dimensions:
+      width: {}
+      height:
+        pixelsValue:
+          inputValue: 42
+          mostRecentInputValue: 42
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        value: "4287166184"
+      mostRecentInputValue:
+        value: "4287166184"
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+parameterValues: {}

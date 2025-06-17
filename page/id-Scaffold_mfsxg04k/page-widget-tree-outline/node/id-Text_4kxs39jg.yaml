@@ -1,0 +1,20 @@
+key: Text_4kxs39jg
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: f7nbr2i0
+    selectable: false
+    textValue:
+      inputValue: Read more
+      mostRecentInputValue: Read more
+    colorValue:
+      inputValue:
+        value: "4287332600"
+      mostRecentInputValue:
+        value: "4287332600"
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

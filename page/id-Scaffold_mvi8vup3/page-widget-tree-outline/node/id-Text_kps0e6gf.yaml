@@ -1,0 +1,20 @@
+key: Text_kps0e6gf
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 8hw8tl30
+    selectable: false
+    textValue:
+      inputValue: Carbs
+      mostRecentInputValue: Carbs
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

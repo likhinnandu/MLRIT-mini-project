@@ -1,0 +1,94 @@
+node:
+  key: Scaffold_mvi8vup3
+  body:
+    key: Column_2wcwtk4y
+    children:
+      - key: Stack_al4ppod2
+        children:
+          - key: Container_dhmv4eea
+            children:
+              - key: Column_l10z9esq
+                children:
+                  - key: Row_nsrjcyf1
+                    children:
+                      - key: IconButton_3rfzy9ed
+                      - key: IconButton_bopjd3vx
+          - key: Container_cuzhqqni
+            children:
+              - key: Column_721gkjng
+                children:
+                  - key: Row_7zvfqfuv
+                    children:
+                      - key: Column_b83o0hvo
+                        children:
+                          - key: Text_w9qt0lu6
+                          - key: Text_5ok2duux
+                          - key: Text_eigyvzta
+                  - key: Column_j41ilrlp
+                    children:
+                      - key: Row_aj3vkpq0
+                        children:
+                          - key: Text_oj7u18fr
+                      - key: Row_qfcvovrm
+                        children:
+                          - key: Stack_v2844h6i
+                            children:
+                              - key: ProgressBar_uh0ujcqj
+                              - key: RichText_p3xut4mj
+                                children:
+                                  - key: RichTextSpan_t3u0epsh
+                                  - key: RichTextSpan_09a6fe16
+                          - key: Stack_jd9o7i63
+                            children:
+                              - key: ProgressBar_fuowwqb6
+                              - key: RichText_8boeqimi
+                                children:
+                                  - key: RichTextSpan_ehg642ms
+                                  - key: RichTextSpan_reohbu3n
+                          - key: Stack_xvyywg1y
+                            children:
+                              - key: ProgressBar_hbu2ge5p
+                              - key: RichText_pfg4bl98
+                                children:
+                                  - key: RichTextSpan_hnkjpa3k
+                                  - key: RichTextSpan_mkvqcgb7
+                      - key: ListView_ck02pxs6
+                        children:
+                          - key: Column_gbsgar4f
+                            children:
+                              - key: Row_vaxmon00
+                                children:
+                                  - key: Container_or0zq85g
+                                  - key: Text_kps0e6gf
+                                  - key: Text_df2nj6mz
+                                  - key: Text_ycjp9qtp
+                              - key: Divider_ibj4k8dj
+                          - key: Column_01sh87hx
+                            children:
+                              - key: Row_05e2lvb5
+                                children:
+                                  - key: Container_yfm2451k
+                                  - key: Text_anyof0so
+                                  - key: Text_5dekhux1
+                                  - key: Text_kor2eaql
+                              - key: Divider_h0amp33x
+                          - key: Column_4fwqzydu
+                            children:
+                              - key: Row_wixawf2b
+                                children:
+                                  - key: Container_bk5fgqqc
+                                  - key: Text_g3t1b9t0
+                                  - key: Text_v9bfxnwm
+                                  - key: Text_gibcvltb
+                  - key: Container_p8tlkb14
+                    children:
+                      - key: Row_es1hjof9
+                        children:
+                          - key: Text_okvvaqp8
+                          - key: VerticalDivider_8306otfm
+                          - key: Text_3b4jm0yi
+                          - key: Icon_5oj5hk7i
+      - key: Row_q9spegip
+        children:
+          - key: IconButton_iny6fmh4
+          - key: Button_2y3kefm0

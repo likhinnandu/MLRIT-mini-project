@@ -1,0 +1,15 @@
+key: Text_4faw3f0s
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: uceakino
+    selectable: false
+    textValue:
+      inputValue: Salad with wheat and white egg
+      mostRecentInputValue: Salad with wheat and white egg
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

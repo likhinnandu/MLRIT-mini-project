@@ -1,0 +1,42 @@
+key: Row_iz9dypuy
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_center
+    listSpacing: {}
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+    bottomValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        slide:
+          beginDx:
+            inputValue:
+              serializedValue: "0"
+          beginDy:
+            inputValue:
+              serializedValue: "0"
+          endDx:
+            inputValue:
+              serializedValue: "200"
+          endDy:
+            inputValue:
+              serializedValue: "0"
+        duration:
+          inputValue:
+            serializedValue: "600"
+    applyInitialState: true
+    reverse: true
+valueKey: {}

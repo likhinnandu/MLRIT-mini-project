@@ -1,0 +1,21 @@
+key: Text_2t7o7rdd
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: r6on7myk
+    selectable: false
+    textValue:
+      inputValue: National health movement
+      mostRecentInputValue: National health movement
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+  responsiveVisibility: {}
+parameterValues: {}

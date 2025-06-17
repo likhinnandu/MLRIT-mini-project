@@ -1,0 +1,20 @@
+key: Text_a5ji8p2f
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: n2cfz8qp
+    selectable: false
+    textValue:
+      inputValue: 100g
+      mostRecentInputValue: 100g
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

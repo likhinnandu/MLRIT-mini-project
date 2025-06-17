@@ -1,0 +1,10 @@
+key: Stack_ca0xsm4j
+type: Stack
+props:
+  stack:
+    dimensions: {}
+    childAlignment:
+      xValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+  responsiveVisibility: {}

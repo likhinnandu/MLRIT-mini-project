@@ -1,0 +1,44 @@
+key: ProgressBar_oyljxaiq
+type: ProgressBar
+props:
+  responsiveVisibility: {}
+  progressBar:
+    shape: Circular
+    text:
+      themeStyle: BODY_MEDIUM
+      translationIdentifier:
+        key: 9e5h92ev
+      textValue:
+        inputValue: 40%
+        mostRecentInputValue: 40%
+      colorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+    size:
+      width:
+        pixelsValue:
+          inputValue: 96
+          mostRecentInputValue: 96
+      height:
+        pixelsValue:
+          inputValue: 18
+          mostRecentInputValue: 18
+    percentValue:
+      inputValue: 0.4
+      mostRecentInputValue: 0.4
+    progressColorValue:
+      inputValue:
+        value: "4286506224"
+      mostRecentInputValue:
+        value: "4286506224"
+    backgroundColorValue:
+      inputValue:
+        value: "838860800"
+      mostRecentInputValue:
+        value: "838860800"
+    animationValue:
+      inputValue: true
+      mostRecentInputValue: true
+parameterValues: {}

@@ -1,0 +1,20 @@
+key: Text_h496n5s8
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ypyn8y1e
+    selectable: false
+    textValue:
+      inputValue: last update 3m
+      mostRecentInputValue: last update 3m
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

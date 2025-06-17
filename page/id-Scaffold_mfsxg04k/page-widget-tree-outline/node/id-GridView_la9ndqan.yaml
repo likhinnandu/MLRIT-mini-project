@@ -1,0 +1,42 @@
+key: GridView_la9ndqan
+type: GridView
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    topValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    rightValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    bottomValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  gridView:
+    shrinkWrapValue:
+      inputValue: true
+      mostRecentInputValue: true
+    crossAxisCountValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    crossAxisSpacingValue:
+      inputValue: 10
+      mostRecentInputValue: 10
+    mainAxisSpacingValue:
+      inputValue: 10
+      mostRecentInputValue: 10
+    childAspectRatioValue:
+      inputValue: 0.75
+      mostRecentInputValue: 0.75
+    primaryValue:
+      inputValue: false
+      mostRecentInputValue: false
+    isHorizontalValue:
+      inputValue: false
+      mostRecentInputValue: false
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}

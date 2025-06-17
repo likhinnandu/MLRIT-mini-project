@@ -1,0 +1,20 @@
+key: Text_g3t1b9t0
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: sla5kdih
+    selectable: false
+    textValue:
+      inputValue: Fat
+      mostRecentInputValue: Fat
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

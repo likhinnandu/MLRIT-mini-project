@@ -1,0 +1,21 @@
+key: Image_dr0oj5fp
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 84
+          mostRecentInputValue: 84
+      height:
+        pixelsValue:
+          inputValue: 84
+          mostRecentInputValue: 84
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/xoolan5b8wrr/water-glass.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/xoolan5b8wrr/water-glass.svg
+  responsiveVisibility: {}
+parameterValues: {}

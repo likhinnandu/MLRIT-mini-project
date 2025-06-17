@@ -1,0 +1,53 @@
+key: Container_o6137dxz
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 60
+          mostRecentInputValue: 60
+      height:
+        pixelsValue:
+          inputValue: 60
+          mostRecentInputValue: 60
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        topRightValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        bottomLeftValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        bottomRightValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        allValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_ASSET
+        pathValue:
+          inputValue: projects/fit-me-nzsmbv/assets/dt8tgimepzoa/weighing.png
+          mostRecentInputValue: projects/fit-me-nzsmbv/assets/dt8tgimepzoa/weighing.png
+      colorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+      borderColorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+    maxDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  responsiveVisibility: {}
+parameterValues: {}

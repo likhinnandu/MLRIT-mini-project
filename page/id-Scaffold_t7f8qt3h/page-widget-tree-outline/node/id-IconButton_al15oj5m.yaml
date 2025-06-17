@@ -1,0 +1,42 @@
+key: IconButton_al15oj5m
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 36
+        mostRecentInputValue: 36
+    fillColorValue:
+      inputValue:
+        value: "872415231"
+      mostRecentInputValue:
+        value: "872415231"
+    borderRadiusValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY_BACKGROUND
+          mostRecentInputValue:
+            themeColor: PRIMARY_BACKGROUND
+        iconDataValue:
+          inputValue:
+            codePoint: 62107
+            family: MaterialIcons
+            matchTextDirection: false
+            name: photo_camera_outlined
+  responsiveVisibility: {}
+parameterValues: {}

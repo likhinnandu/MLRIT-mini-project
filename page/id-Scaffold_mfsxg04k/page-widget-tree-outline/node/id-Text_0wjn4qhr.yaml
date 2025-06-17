@@ -1,0 +1,16 @@
+key: Text_0wjn4qhr
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: c0szos02
+    selectable: false
+    textValue:
+      inputValue: Metrics
+      mostRecentInputValue: Metrics
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+  responsiveVisibility: {}
+parameterValues: {}

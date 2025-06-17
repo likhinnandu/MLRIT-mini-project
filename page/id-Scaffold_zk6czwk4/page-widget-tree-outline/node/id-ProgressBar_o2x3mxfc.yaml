@@ -1,0 +1,42 @@
+key: ProgressBar_o2x3mxfc
+type: ProgressBar
+props:
+  responsiveVisibility: {}
+  progressBar:
+    shape: Circular
+    text:
+      themeStyle: BODY_MEDIUM
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+    size:
+      width:
+        pixelsValue:
+          inputValue: 60
+          mostRecentInputValue: 60
+      height:
+        pixelsValue:
+          inputValue: 8
+          mostRecentInputValue: 8
+    percentValue:
+      inputValue: 0.5
+      mostRecentInputValue: 0.5
+    progressColorValue:
+      inputValue:
+        value: "4280190973"
+      mostRecentInputValue:
+        value: "4280190973"
+    backgroundColorValue:
+      inputValue:
+        value: "1293846525"
+      mostRecentInputValue:
+        value: "1293846525"
+    animationValue:
+      inputValue: true
+      mostRecentInputValue: true
+parameterValues: {}

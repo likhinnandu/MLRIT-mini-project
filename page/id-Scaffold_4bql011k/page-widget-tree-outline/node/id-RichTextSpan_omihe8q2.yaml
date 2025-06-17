@@ -1,0 +1,10 @@
+key: RichTextSpan_omihe8q2
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: puszdvpo
+      textValue:
+        inputValue: "8"
+parameterValues: {}

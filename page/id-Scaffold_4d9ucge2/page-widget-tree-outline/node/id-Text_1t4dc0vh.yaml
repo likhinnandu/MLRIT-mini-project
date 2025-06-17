@@ -1,0 +1,21 @@
+key: Text_1t4dc0vh
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ovhy467j
+    selectable: false
+    textValue:
+      inputValue: Timeline
+      mostRecentInputValue: Timeline
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        paletteColorName: btnText
+      mostRecentInputValue:
+        paletteColorName: btnText
+  responsiveVisibility: {}
+parameterValues: {}

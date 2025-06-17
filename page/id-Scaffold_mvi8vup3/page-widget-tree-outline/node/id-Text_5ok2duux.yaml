@@ -1,0 +1,28 @@
+key: Text_5ok2duux
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: yp7lx6st
+    selectable: false
+    textValue:
+      inputValue: Salad with wheat and white egg
+      mostRecentInputValue: Salad with wheat and white egg
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w500
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}
+parameterValues: {}

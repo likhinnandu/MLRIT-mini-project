@@ -1,0 +1,21 @@
+key: Text_7hvbups0
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: qov3te4e
+    selectable: false
+    textValue:
+      inputValue: "56.4"
+      mostRecentInputValue: "56.4"
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+  responsiveVisibility: {}
+parameterValues: {}

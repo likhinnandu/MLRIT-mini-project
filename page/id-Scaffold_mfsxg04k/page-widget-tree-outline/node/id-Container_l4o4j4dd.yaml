@@ -1,0 +1,99 @@
+key: Container_l4o4j4dd
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        topRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        bottomLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        bottomRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        allValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: PRIMARY_BACKGROUND
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    bottomValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+name: LatestEvent
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        fade:
+          begin:
+            inputValue:
+              serializedValue: "0"
+          end:
+            inputValue:
+              serializedValue: "1"
+        delay:
+          inputValue:
+            serializedValue: "1200"
+        duration:
+          inputValue:
+            serializedValue: "600"
+      - curve: EASE_IN_OUT
+        slide:
+          beginDx:
+            inputValue:
+              serializedValue: "0"
+          beginDy:
+            inputValue:
+              serializedValue: "20"
+          endDx:
+            inputValue:
+              serializedValue: "0"
+          endDy:
+            inputValue:
+              serializedValue: "0"
+        delay:
+          inputValue:
+            serializedValue: "1200"
+        duration:
+          inputValue:
+            serializedValue: "600"
+    useSameInterval: true
+    applyInitialState: true
+    delay:
+      inputValue:
+        serializedValue: "1200"
+    duration:
+      inputValue:
+        serializedValue: "600"

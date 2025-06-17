@@ -1,0 +1,20 @@
+key: Icon_4p99k34h
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        value: "4293519849"
+      mostRecentInputValue:
+        value: "4293519849"
+    iconDataValue:
+      inputValue:
+        codePoint: 61927
+        family: MaterialIcons
+        matchTextDirection: false
+        name: keyboard_control_outlined
+  responsiveVisibility: {}
+parameterValues: {}

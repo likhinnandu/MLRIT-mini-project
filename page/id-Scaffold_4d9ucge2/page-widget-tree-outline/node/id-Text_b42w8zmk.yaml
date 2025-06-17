@@ -1,0 +1,31 @@
+key: Text_b42w8zmk
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: du9r3k10
+    selectable: false
+    textValue:
+      inputValue: kg
+      mostRecentInputValue: kg
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+    letterSpacingValue:
+      inputValue: 0.2
+      mostRecentInputValue: 0.2
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    bottomValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

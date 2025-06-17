@@ -1,0 +1,26 @@
+key: Text_bvcxvtv4
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: wponyycs
+    selectable: false
+    textValue:
+      inputValue: WATER
+      mostRecentInputValue: WATER
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+    letterSpacingValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

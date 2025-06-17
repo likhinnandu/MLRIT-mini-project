@@ -1,0 +1,17 @@
+key: Divider_dx0ojdxu
+type: Divider
+props:
+  divider:
+    heightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    thicknessValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    colorValue:
+      inputValue:
+        value: "4293519849"
+      mostRecentInputValue:
+        value: "4293519849"
+  responsiveVisibility: {}
+parameterValues: {}

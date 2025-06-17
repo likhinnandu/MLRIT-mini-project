@@ -1,0 +1,47 @@
+key: IconButton_to9w27li
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 40
+        mostRecentInputValue: 40
+    fillColorValue:
+      inputValue:
+        value: "4293189631"
+      mostRecentInputValue:
+        value: "4293189631"
+    borderRadiusValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        colorValue:
+          inputValue:
+            value: "4285621731"
+          mostRecentInputValue:
+            value: "4285621731"
+        iconDataValue:
+          inputValue:
+            codePoint: 62775
+            family: MaterialIcons
+            matchTextDirection: false
+            name: add_rounded
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

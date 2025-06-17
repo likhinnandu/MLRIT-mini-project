@@ -1,0 +1,23 @@
+key: Text_mc445xt2
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ivvz7mr1
+    selectable: false
+    textValue:
+      inputValue: About
+      mostRecentInputValue: About
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

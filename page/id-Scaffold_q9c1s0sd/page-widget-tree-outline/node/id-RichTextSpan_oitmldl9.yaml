@@ -1,0 +1,11 @@
+key: RichTextSpan_oitmldl9
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: 5i8mnf6o
+      textValue:
+        inputValue: "3"
+        mostRecentInputValue: "3"
+parameterValues: {}

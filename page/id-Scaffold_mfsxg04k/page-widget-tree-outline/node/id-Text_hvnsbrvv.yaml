@@ -1,0 +1,23 @@
+key: Text_hvnsbrvv
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ti8fav0t
+    selectable: false
+    textValue:
+      inputValue: "750"
+      mostRecentInputValue: "750"
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

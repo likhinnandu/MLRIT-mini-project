@@ -1,0 +1,67 @@
+key: Container_kugnufjk
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ONLY
+        topLeftValue:
+          inputValue: 36
+          mostRecentInputValue: 36
+        topRightValue:
+          inputValue: 36
+          mostRecentInputValue: 36
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          paletteColorName: Custom Color 4
+        mostRecentInputValue:
+          paletteColorName: Custom Color 4
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 240
+      mostRecentInputValue: 240
+  alignment:
+    yValue:
+      inputValue: -0.44999999999999996
+      mostRecentInputValue: -0.44999999999999996
+  responsiveVisibility: {}
+name: ContentArea
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        slide:
+          beginDx:
+            inputValue:
+              serializedValue: "0"
+          beginDy:
+            inputValue:
+              serializedValue: "20"
+          endDx:
+            inputValue:
+              serializedValue: "0"
+          endDy:
+            inputValue:
+              serializedValue: "0"
+        delay:
+          inputValue:
+            serializedValue: "0"
+        duration:
+          inputValue:
+            serializedValue: "600"
+    applyInitialState: true

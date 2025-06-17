@@ -1,0 +1,17 @@
+key: Column_x8f0hq32
+type: Column
+props:
+  column:
+    scrollable: true
+    primary: true
+    listSpacing: {}
+  responsiveVisibility: {}
+  queryLoadingWidget:
+    loadingWidget:
+      defaultLoadingIndicator: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

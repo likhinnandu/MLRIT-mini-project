@@ -1,0 +1,6 @@
+rootAction:
+  key: jamoh8qi
+  action:
+    key: egu8m1uo
+trigger:
+  triggerType: ON_TEXTFIELD_SUBMIT

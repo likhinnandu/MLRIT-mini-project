@@ -1,0 +1,6 @@
+key: Row_cvq5h4x3
+type: Row
+props:
+  row:
+    crossAxisAlignment: cross_axis_end
+  responsiveVisibility: {}

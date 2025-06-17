@@ -1,0 +1,17 @@
+key: Row_2on1yibz
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_center
+    minSizeValue:
+      inputValue: true
+      mostRecentInputValue: true
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  responsiveVisibility: {}

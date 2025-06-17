@@ -1,0 +1,70 @@
+key: Button_tt806w9m
+type: Button
+props:
+  button:
+    text:
+      fontFamily: Rubik
+      themeStyle: CUSTOM
+      isCustomFont: false
+      translationIdentifier:
+        key: kwfxk5eg
+      textValue:
+        inputValue: DAY
+        mostRecentInputValue: DAY
+      fontSizeValue:
+        inputValue: 14
+        mostRecentInputValue: 14
+      colorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      topRightValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      bottomLeftValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      bottomRightValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+      allValue:
+        inputValue: 12
+        mostRecentInputValue: 12
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 96
+          mostRecentInputValue: 96
+      height:
+        pixelsValue:
+          inputValue: 42
+          mostRecentInputValue: 42
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        value: "7431651"
+      mostRecentInputValue:
+        value: "7431651"
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,36 @@
+key: Text_oc9uh2p9
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ys8ayb5u
+    selectable: false
+    textValue:
+      inputValue: You are ready to go!
+      mostRecentInputValue: You are ready to go!
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w500
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 96
+      mostRecentInputValue: 96
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 96
+      mostRecentInputValue: 96
+  responsiveVisibility: {}
+parameterValues: {}

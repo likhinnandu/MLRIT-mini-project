@@ -1,0 +1,17 @@
+name: EnterPassword
+params:
+  lcqdhy:
+    identifier:
+      name: username
+      key: lcqdhy
+    dataType:
+      scalarType: Double
+  wn6oov:
+    identifier:
+      name: password
+      key: wn6oov
+    dataType:
+      scalarType: String
+node:
+  key: Scaffold_0whc5ktg
+classModel: {}

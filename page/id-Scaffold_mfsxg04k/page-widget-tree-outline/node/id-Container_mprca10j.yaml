@@ -1,0 +1,61 @@
+key: Container_mprca10j
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 10
+          mostRecentInputValue: 10
+      height:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+    boxDecoration:
+      boxShape: FF_BOX_SHAPE_CIRCLE
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          value: "4286506224"
+        mostRecentInputValue:
+          value: "4286506224"
+      borderColorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+    maxDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        scale:
+          beginDx:
+            inputValue:
+              serializedValue: "1"
+          endDx:
+            inputValue:
+              serializedValue: "1.2"
+          beginDy:
+            inputValue:
+              serializedValue: "1"
+          endDy:
+            inputValue:
+              serializedValue: "1.2"
+        duration:
+          inputValue:
+            serializedValue: "2000"
+    applyInitialState: true
+    reverse: true

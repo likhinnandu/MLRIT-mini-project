@@ -1,0 +1,16 @@
+key: RichTextSpan_2umowgr7
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: 7dlhfhyb
+      textValue:
+        inputValue: 750 ml
+        mostRecentInputValue: 750 ml
+      colorValue:
+        inputValue:
+          themeColor: PRIMARY
+        mostRecentInputValue:
+          themeColor: PRIMARY
+parameterValues: {}

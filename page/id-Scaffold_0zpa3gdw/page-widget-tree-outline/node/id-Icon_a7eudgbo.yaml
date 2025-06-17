@@ -1,0 +1,20 @@
+key: Icon_a7eudgbo
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+    iconDataValue:
+      inputValue:
+        codePoint: 57498
+        family: MaterialIcons
+        matchTextDirection: false
+        name: arrow_drop_up
+  responsiveVisibility: {}
+parameterValues: {}

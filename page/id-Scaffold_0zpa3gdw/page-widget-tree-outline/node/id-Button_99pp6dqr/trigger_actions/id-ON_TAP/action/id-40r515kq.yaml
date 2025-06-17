@@ -1,0 +1,11 @@
+navigate:
+  allowBack: true
+  passedParameters:
+    widgetClassNodeKeyRef:
+      key: Scaffold_ue3ztdd3
+  isNavigateBack: false
+  transition:
+    transitionType: FADE_IN
+  pageNodeKeyRef:
+    key: Scaffold_ue3ztdd3
+key: 40r515kq

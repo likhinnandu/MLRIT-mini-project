@@ -1,0 +1,20 @@
+key: Text_df2nj6mz
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 8nhqd1ho
+    selectable: false
+    textValue:
+      inputValue: 100g
+      mostRecentInputValue: 100g
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

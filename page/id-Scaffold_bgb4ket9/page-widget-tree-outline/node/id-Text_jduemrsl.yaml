@@ -1,0 +1,23 @@
+key: Text_jduemrsl
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: pp92srod
+    selectable: false
+    textValue:
+      inputValue: Free Event
+      mostRecentInputValue: Free Event
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

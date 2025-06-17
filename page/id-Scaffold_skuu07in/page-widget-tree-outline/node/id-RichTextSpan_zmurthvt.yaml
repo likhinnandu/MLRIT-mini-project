@@ -1,0 +1,11 @@
+key: RichTextSpan_zmurthvt
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: 8my70alb
+      textValue:
+        inputValue: "2158"
+        mostRecentInputValue: "2158"
+parameterValues: {}

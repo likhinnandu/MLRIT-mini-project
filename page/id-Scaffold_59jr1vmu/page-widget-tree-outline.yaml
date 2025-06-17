@@ -1,0 +1,13 @@
+node:
+  key: Scaffold_59jr1vmu
+  body:
+    key: Column_3wii8gov
+    children:
+      - key: Column_1x4rqdzl
+        children:
+          - key: Image_xgt07jxf
+      - key: Column_exgpcu38
+        children:
+          - key: Text_oc9uh2p9
+          - key: Text_x6ca45l6
+      - key: Button_xfemtb9y

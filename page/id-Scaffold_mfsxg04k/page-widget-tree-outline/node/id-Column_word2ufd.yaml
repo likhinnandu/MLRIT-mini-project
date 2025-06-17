@@ -1,0 +1,6 @@
+key: Column_word2ufd
+type: Column
+props:
+  column:
+    primary: true
+  responsiveVisibility: {}

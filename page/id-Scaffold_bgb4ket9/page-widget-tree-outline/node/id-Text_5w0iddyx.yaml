@@ -1,0 +1,23 @@
+key: Text_5w0iddyx
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: i7winm85
+    selectable: false
+    textValue:
+      inputValue: SUN
+      mostRecentInputValue: SUN
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    letterSpacingValue:
+      inputValue: 0.4
+      mostRecentInputValue: 0.4
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

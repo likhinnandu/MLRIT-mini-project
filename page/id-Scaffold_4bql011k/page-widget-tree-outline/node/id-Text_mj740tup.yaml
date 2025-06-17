@@ -1,0 +1,25 @@
+key: Text_mj740tup
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: n6xqb2rl
+    selectable: false
+    textValue:
+      inputValue: Sports
+      mostRecentInputValue: Sports
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    fontWeightValue:
+      inputValue: w400
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}
+parameterValues: {}

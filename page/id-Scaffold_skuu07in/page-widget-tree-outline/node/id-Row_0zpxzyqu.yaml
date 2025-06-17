@@ -1,0 +1,11 @@
+key: Row_0zpxzyqu
+type: Row
+props:
+  row:
+    crossAxisAlignment: cross_axis_center
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+  responsiveVisibility: {}

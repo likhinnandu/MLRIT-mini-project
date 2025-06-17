@@ -1,0 +1,20 @@
+key: Text_yg3wxhtx
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: l8ervlaq
+    selectable: false
+    textValue:
+      inputValue: "75"
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+  responsiveVisibility: {}
+parameterValues: {}

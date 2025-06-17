@@ -1,0 +1,59 @@
+key: Column_g73zjlec
+type: Column
+props:
+  column:
+    primary: true
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+    bottomValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+  responsiveVisibility: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        fade:
+          begin:
+            inputValue:
+              serializedValue: "0"
+          end:
+            inputValue:
+              serializedValue: "1"
+        delay:
+          inputValue:
+            serializedValue: "600"
+        duration:
+          inputValue:
+            serializedValue: "600"
+      - curve: EASE_IN_OUT
+        slide:
+          beginDx:
+            inputValue:
+              serializedValue: "0"
+          beginDy:
+            inputValue:
+              serializedValue: "20"
+          endDx:
+            inputValue:
+              serializedValue: "0"
+          endDy:
+            inputValue:
+              serializedValue: "0"
+        delay:
+          inputValue:
+            serializedValue: "600"
+        duration:
+          inputValue:
+            serializedValue: "600"
+    useSameInterval: true
+    applyInitialState: true
+    delay:
+      inputValue:
+        serializedValue: "600"
+    duration:
+      inputValue:
+        serializedValue: "600"

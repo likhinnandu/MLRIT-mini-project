@@ -1,0 +1,20 @@
+key: Text_dbvwh46m
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 3u5xm0n7
+    selectable: false
+    textValue:
+      inputValue: "Road no.36, Banjara Hills"
+      mostRecentInputValue: "Road no.36, Banjara Hills"
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}
+parameterValues: {}

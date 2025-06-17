@@ -1,0 +1,23 @@
+key: Text_oj7u18fr
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: dqjyyfl8
+    selectable: false
+    textValue:
+      inputValue: Nutrition Fact
+      mostRecentInputValue: Nutrition Fact
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

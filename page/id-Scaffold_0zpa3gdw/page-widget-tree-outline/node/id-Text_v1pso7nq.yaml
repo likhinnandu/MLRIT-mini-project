@@ -1,0 +1,25 @@
+key: Text_v1pso7nq
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: fgffjuro
+    selectable: false
+    textValue:
+      inputValue: Add Custom Photo
+      mostRecentInputValue: Add Custom Photo
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+    fontWeightValue:
+      inputValue: w500
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+  responsiveVisibility: {}
+parameterValues: {}

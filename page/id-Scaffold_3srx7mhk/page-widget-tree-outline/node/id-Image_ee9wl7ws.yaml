@@ -1,0 +1,43 @@
+key: Image_ee9wl7ws
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 280
+          mostRecentInputValue: 280
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 50
+        mostRecentInputValue: 50
+      topRightValue:
+        inputValue: 50
+        mostRecentInputValue: 50
+      bottomLeftValue:
+        inputValue: 50
+        mostRecentInputValue: 50
+      bottomRightValue:
+        inputValue: 50
+        mostRecentInputValue: 50
+      allValue:
+        inputValue: 50
+        mostRecentInputValue: 50
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/mi-fisica-fakloo/assets/453or8hypb28/image-removebg-preview.png
+      mostRecentInputValue: projects/mi-fisica-fakloo/assets/453or8hypb28/image-removebg-preview.png
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+  alignment:
+    yValue:
+      inputValue: -0.09999999999999998
+      mostRecentInputValue: -0.09999999999999998
+  responsiveVisibility: {}
+parameterValues: {}

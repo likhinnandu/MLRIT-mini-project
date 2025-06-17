@@ -1,0 +1,26 @@
+active: true
+firebase:
+  createUserDocument:
+    collectionIdentifier:
+      name: users
+      key: 42x9nsmr
+    write:
+      updates:
+        email:
+          fieldIdentifier:
+            name: email
+          inputValue: {}
+        password:
+          fieldIdentifier:
+            name: password
+          inputValue: {}
+firebaseConfigFileInfos:
+  - androidPath: users/UY7CixSUkyeGvhK5w6a9TJ2vaI73/projects/mi-fisica-7ba4da/configs/6uqhrr75idag/google-services.json
+    iosPath: users/UY7CixSUkyeGvhK5w6a9TJ2vaI73/projects/mi-fisica-7ba4da/configs/3pxylgo4iy3f/GoogleService-Info.plist
+    webConfig: "\/\/ Copy and paste this into your JavaScript code to initialize the Firebase SDK.\n\/\/ You will also need to load the Firebase SDK.\n\/\/ See https:\/\/firebase.google.com\/docs\/web\/setup for more details.\n\nfirebase.initializeApp({\n  \"projectId\": \"mi-fisica-7ba4da\",\n  \"appId\": \"1:1067090668518:web:4950c9fe7c9de8744ec427\",\n  \"storageBucket\": \"mi-fisica-7ba4da.firebasestorage.app\",\n  \"apiKey\": \"AIzaSyCj4iq91BLo4FuEXvl7dFxDt8Cq7IwjA0I\",\n  \"authDomain\": \"mi-fisica-7ba4da.firebaseapp.com\",\n  \"messagingSenderId\": \"1067090668518\"\n});\n"
+    androidPackageNames:
+      - com.mycompany.mifisica
+    iosBundleId: com.mycompany.mifisica
+    environment:
+      name: Production
+      key: PROD

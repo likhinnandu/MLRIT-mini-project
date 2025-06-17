@@ -1,0 +1,9 @@
+key: Column_a4fgf36v
+type: Column
+props:
+  column:
+    crossAxisAlignment: cross_axis_center
+    primary: true
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}

@@ -1,0 +1,31 @@
+key: Text_lchl83va
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: eja97g6j
+    selectable: false
+    textValue:
+      inputValue: cm
+      mostRecentInputValue: cm
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    letterSpacingValue:
+      inputValue: 0.2
+      mostRecentInputValue: 0.2
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    bottomValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  responsiveVisibility: {}
+parameterValues: {}

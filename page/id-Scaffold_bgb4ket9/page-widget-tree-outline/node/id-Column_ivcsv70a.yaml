@@ -1,0 +1,6 @@
+key: Column_ivcsv70a
+type: Column
+props:
+  column:
+    primary: true
+  responsiveVisibility: {}

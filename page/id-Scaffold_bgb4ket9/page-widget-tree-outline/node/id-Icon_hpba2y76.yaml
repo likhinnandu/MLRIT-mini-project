@@ -1,0 +1,20 @@
+key: Icon_hpba2y76
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        value: "4286743170"
+      mostRecentInputValue:
+        value: "4286743170"
+    iconDataValue:
+      inputValue:
+        codePoint: 60069
+        family: MaterialIcons
+        matchTextDirection: false
+        name: location_on_sharp
+  responsiveVisibility: {}
+parameterValues: {}

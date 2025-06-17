@@ -1,0 +1,10 @@
+outputVariableName: bio
+key: ax8vlkov
+biometricVerification:
+  biometricOnly: false
+  biometricReasonText:
+    translationIdentifier:
+      key: l65siejm
+    textValue:
+      inputValue: to enble biometric login
+      mostRecentInputValue: to enble biometric login

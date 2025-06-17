@@ -1,0 +1,38 @@
+key: Image_cql36c2w
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+      height:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/by3dh9frzl4o/camera.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/by3dh9frzl4o/camera.svg
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    topValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    rightValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    bottomValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    allValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+  responsiveVisibility: {}
+parameterValues: {}

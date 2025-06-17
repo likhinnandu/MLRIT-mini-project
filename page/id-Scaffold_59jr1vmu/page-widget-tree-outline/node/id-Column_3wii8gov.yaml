@@ -1,0 +1,6 @@
+key: Column_3wii8gov
+type: Column
+props:
+  column:
+    primary: true
+  responsiveVisibility: {}

@@ -1,0 +1,11 @@
+key: RichTextSpan_pomopvbx
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: wasbocbg
+      textValue:
+        inputValue: " cals"
+        mostRecentInputValue: " cals"
+parameterValues: {}

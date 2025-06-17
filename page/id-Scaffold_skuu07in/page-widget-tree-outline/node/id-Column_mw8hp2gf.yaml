@@ -1,0 +1,15 @@
+key: Column_mw8hp2gf
+type: Column
+props:
+  column:
+    mainAxisAlignment: main_axis_space_between
+    primary: true
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    bottomValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+  responsiveVisibility: {}

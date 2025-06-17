@@ -1,0 +1,25 @@
+key: Text_0j65o65z
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: poirykl1
+    selectable: false
+    textValue:
+      inputValue: Running
+      mostRecentInputValue: Running
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    fontWeightValue:
+      inputValue: w400
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}
+parameterValues: {}

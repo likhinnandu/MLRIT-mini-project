@@ -1,0 +1,30 @@
+key: Text_jl7air3e
+type: Text
+props:
+  text:
+    fontFamily: Rubik
+    themeStyle: BODY_MEDIUM
+    isCustomFont: false
+    translationIdentifier:
+      key: 8l0l2oit
+    selectable: false
+    textValue:
+      inputValue: WED 24 MAR
+      mostRecentInputValue: WED 24 MAR
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+    fontWeightValue:
+      inputValue: w500
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

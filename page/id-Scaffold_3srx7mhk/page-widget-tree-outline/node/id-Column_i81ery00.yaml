@@ -1,0 +1,13 @@
+key: Column_i81ery00
+type: Column
+props:
+  column:
+    primary: true
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 120
+      mostRecentInputValue: 120
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}

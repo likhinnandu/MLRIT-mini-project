@@ -1,0 +1,23 @@
+key: Text_f1wh2n61
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 155cn60f
+    selectable: false
+    textValue:
+      inputValue: WED
+      mostRecentInputValue: WED
+    colorValue:
+      inputValue:
+        value: "4294111986"
+      mostRecentInputValue:
+        value: "4294111986"
+    letterSpacingValue:
+      inputValue: 0.4
+      mostRecentInputValue: 0.4
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

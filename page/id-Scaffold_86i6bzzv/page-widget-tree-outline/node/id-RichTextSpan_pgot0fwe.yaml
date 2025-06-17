@@ -1,0 +1,11 @@
+key: RichTextSpan_pgot0fwe
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: 9buuaakx
+      textValue:
+        inputValue: "Today you took "
+        mostRecentInputValue: "Today you took "
+parameterValues: {}

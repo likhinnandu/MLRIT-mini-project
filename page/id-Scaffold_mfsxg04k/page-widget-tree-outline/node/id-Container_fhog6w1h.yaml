@@ -1,0 +1,41 @@
+key: Container_fhog6w1h
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        topRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        bottomLeftValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        bottomRightValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+        allValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          value: "4294309626"
+        mostRecentInputValue:
+          value: "4294309626"
+    maxDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  responsiveVisibility: {}
+parameterValues: {}

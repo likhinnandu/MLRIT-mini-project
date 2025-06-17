@@ -1,0 +1,21 @@
+key: ListView_ck02pxs6
+type: ListView
+props:
+  listView:
+    axis: FF_AXIS_VERTICAL
+    primary: false
+    shrinkWrapValue:
+      inputValue: true
+      mostRecentInputValue: true
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    topValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+    rightValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  responsiveVisibility: {}

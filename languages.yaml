@@ -1,0 +1,394 @@
+languages:
+  - language: en
+primaryLanguage:
+  language: en
+displayLanguage:
+  language: en
+textTranslations:
+  zn86wwi5:
+    translationIdentifier:
+      key: zn86wwi5
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  2jzzm1az:
+    translationIdentifier:
+      key: 2jzzm1az
+    translations:
+      - language:
+          language: en
+        text: This app requires permissions to access calendar
+    isFixed: false
+  6ikdi1xk:
+    translationIdentifier:
+      key: 6ikdi1xk
+    translations:
+      - language:
+          language: en
+        text: "This app requires permissions to access notifications\n"
+    isFixed: false
+  5gcuy51z:
+    translationIdentifier:
+      key: 5gcuy51z
+    translations:
+      - language:
+          language: en
+        text: This app requires permissions to access your location and services
+    isFixed: false
+  ak4itf1w:
+    translationIdentifier:
+      key: ak4itf1w
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  k9dpmb8j:
+    translationIdentifier:
+      key: k9dpmb8j
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  uypvjvox:
+    translationIdentifier:
+      key: uypvjvox
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  fpocgnhm:
+    translationIdentifier:
+      key: fpocgnhm
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  3lbl3t7g:
+    translationIdentifier:
+      key: 3lbl3t7g
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  ici2ztyf:
+    translationIdentifier:
+      key: ici2ztyf
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  fzurbiwu:
+    translationIdentifier:
+      key: fzurbiwu
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  c69j9o0l:
+    translationIdentifier:
+      key: c69j9o0l
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  2ekc1m4d:
+    translationIdentifier:
+      key: 2ekc1m4d
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  ixiajsgp:
+    translationIdentifier:
+      key: ixiajsgp
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  4cayc9xi:
+    translationIdentifier:
+      key: 4cayc9xi
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  v704jyg9:
+    translationIdentifier:
+      key: v704jyg9
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  b3yq11dt:
+    translationIdentifier:
+      key: b3yq11dt
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  6pwqylrv:
+    translationIdentifier:
+      key: 6pwqylrv
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  t234z29k:
+    translationIdentifier:
+      key: t234z29k
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  hdh9uyti:
+    translationIdentifier:
+      key: hdh9uyti
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  uh5tcqul:
+    translationIdentifier:
+      key: uh5tcqul
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  smveie11:
+    translationIdentifier:
+      key: smveie11
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  nwnpfocn:
+    translationIdentifier:
+      key: nwnpfocn
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  66os6emw:
+    translationIdentifier:
+      key: 66os6emw
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  ugxtks1i:
+    translationIdentifier:
+      key: ugxtks1i
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  6k9yvoq5:
+    translationIdentifier:
+      key: 6k9yvoq5
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  r3tdc7a1:
+    translationIdentifier:
+      key: r3tdc7a1
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  pucv0e4u:
+    translationIdentifier:
+      key: pucv0e4u
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+  dvbxohk7:
+    translationIdentifier:
+      key: dvbxohk7
+    translations:
+      - language:
+          language: en
+        text: ""
+    isFixed: false
+presetTexts:
+  authMessages:
+    error:
+      translationIdentifier:
+        key: ak4itf1w
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    passwordResetEmailSent:
+      translationIdentifier:
+        key: k9dpmb8j
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    emailRequired:
+      translationIdentifier:
+        key: uypvjvox
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    phoneNumberValidation:
+      translationIdentifier:
+        key: fpocgnhm
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    passwordsDoNotMatch:
+      translationIdentifier:
+        key: 3lbl3t7g
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    enterSmsVerificationCode:
+      translationIdentifier:
+        key: ici2ztyf
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    reauthenticateForUserDelete:
+      translationIdentifier:
+        key: fzurbiwu
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    reauthenticateForEmailUpdate:
+      translationIdentifier:
+        key: c69j9o0l
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    emailChangeConfirmation:
+      translationIdentifier:
+        key: 2ekc1m4d
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    emailAlreadyInUse:
+      translationIdentifier:
+        key: ixiajsgp
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    invalidCredentials:
+      translationIdentifier:
+        key: 4cayc9xi
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+  uploadDataMessages:
+    invalidFileFormat:
+      translationIdentifier:
+        key: v704jyg9
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    uploadingFile:
+      translationIdentifier:
+        key: b3yq11dt
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    success:
+      translationIdentifier:
+        key: 6pwqylrv
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    error:
+      translationIdentifier:
+        key: t234z29k
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    sendingPhoto:
+      translationIdentifier:
+        key: hdh9uyti
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    chooseSource:
+      translationIdentifier:
+        key: uh5tcqul
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    gallery:
+      translationIdentifier:
+        key: smveie11
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    galleryPhoto:
+      translationIdentifier:
+        key: nwnpfocn
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    galleryVideo:
+      translationIdentifier:
+        key: 66os6emw
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    camera:
+      translationIdentifier:
+        key: ugxtks1i
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    empty:
+      translationIdentifier:
+        key: 6k9yvoq5
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+  paymentMessages:
+    processingMessage:
+      translationIdentifier:
+        key: r3tdc7a1
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    success:
+      translationIdentifier:
+        key: pucv0e4u
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+    error:
+      translationIdentifier:
+        key: dvbxohk7
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+persistLanguageSelection: true

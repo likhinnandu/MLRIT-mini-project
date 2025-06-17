@@ -1,0 +1,15 @@
+key: Text_okvvaqp8
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ijzbv3u1
+    selectable: false
+    textValue:
+      inputValue: "1"
+      mostRecentInputValue: "1"
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

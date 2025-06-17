@@ -1,0 +1,25 @@
+key: IconButton_l3xyphu9
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 40
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY
+    borderRadiusValue:
+      inputValue: 8
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 24
+        colorValue:
+          inputValue:
+            themeColor: INFO
+        iconDataValue:
+          inputValue:
+            codePoint: 57490
+            family: MaterialIcons
+            matchTextDirection: true
+            name: arrow_back

@@ -1,0 +1,17 @@
+key: Column_vwlu4abo
+type: Column
+props:
+  column:
+    primary: true
+    listSpacing: {}
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

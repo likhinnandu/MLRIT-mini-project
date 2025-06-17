@@ -1,0 +1,59 @@
+key: Image_3thvz69x
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 220
+          mostRecentInputValue: 220
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/nu4rnj1tq28g/love.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/nu4rnj1tq28g/love.svg
+  padding:
+    type: FF_PADDING_ONLY
+    bottomValue:
+      inputValue: 72
+      mostRecentInputValue: 72
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    animatedOpacity: {}
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        slide:
+          beginDx:
+            inputValue:
+              serializedValue: "0"
+          beginDy:
+            inputValue:
+              serializedValue: "-80"
+          endDx:
+            inputValue:
+              serializedValue: "0"
+          endDy:
+            inputValue:
+              serializedValue: "0"
+        delay:
+          inputValue:
+            serializedValue: "0"
+        duration:
+          inputValue:
+            serializedValue: "600"
+    useSameInterval: true
+    applyInitialState: true
+    delay:
+      inputValue:
+        serializedValue: "0"
+    duration:
+      inputValue:
+        serializedValue: "600"
+valueKey: {}

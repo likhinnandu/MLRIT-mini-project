@@ -1,0 +1,11 @@
+key: Row_qfcvovrm
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_space_evenly
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}

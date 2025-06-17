@@ -1,0 +1,26 @@
+key: Text_uyi0d98h
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ldkuh8vw
+    selectable: false
+    textValue:
+      inputValue: kcal/1203 kcal
+      mostRecentInputValue: kcal/1203 kcal
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 4
+      mostRecentInputValue: 4
+    bottomValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  responsiveVisibility: {}
+parameterValues: {}

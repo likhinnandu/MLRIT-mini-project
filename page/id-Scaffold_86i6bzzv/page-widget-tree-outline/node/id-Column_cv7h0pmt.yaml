@@ -1,0 +1,17 @@
+key: Column_cv7h0pmt
+type: Column
+props:
+  column:
+    primary: true
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    topValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}

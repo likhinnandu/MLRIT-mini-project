@@ -1,0 +1,10 @@
+key: Row_6wnh9hi0
+type: Row
+props:
+  row: {}
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}

@@ -1,0 +1,42 @@
+key: IconButton_coacpeu7
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 28
+        mostRecentInputValue: 28
+    fillColorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    borderRadiusValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        colorValue:
+          inputValue:
+            themeColor: PRIMARY
+          mostRecentInputValue:
+            themeColor: PRIMARY
+        iconDataValue:
+          inputValue:
+            codePoint: 57415
+            family: MaterialIcons
+            matchTextDirection: false
+            name: add
+  responsiveVisibility: {}
+parameterValues: {}

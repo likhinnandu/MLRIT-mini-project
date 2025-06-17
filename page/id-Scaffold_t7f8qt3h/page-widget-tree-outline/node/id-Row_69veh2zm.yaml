@@ -1,0 +1,17 @@
+key: Row_69veh2zm
+type: Row
+props:
+  row:
+    listSpacing: {}
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

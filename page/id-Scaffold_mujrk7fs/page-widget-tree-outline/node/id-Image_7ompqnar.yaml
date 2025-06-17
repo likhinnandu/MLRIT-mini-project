@@ -1,0 +1,60 @@
+key: Image_7ompqnar
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 180
+          mostRecentInputValue: 180
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/rehwdd0yr2zc/fingerprint.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/rehwdd0yr2zc/fingerprint.svg
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+  responsiveVisibility: {}
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        slide:
+          beginDx:
+            inputValue:
+              serializedValue: "40"
+          beginDy:
+            inputValue:
+              serializedValue: "0"
+          endDx:
+            inputValue:
+              serializedValue: "0"
+          endDy:
+            inputValue:
+              serializedValue: "0"
+        delay:
+          inputValue:
+            serializedValue: "0"
+        duration:
+          inputValue:
+            serializedValue: "600"
+      - curve: EASE_IN_OUT
+        fade:
+          begin:
+            inputValue:
+              serializedValue: "0"
+          end:
+            inputValue:
+              serializedValue: "1"
+        delay:
+          inputValue:
+            serializedValue: "0"
+        duration:
+          inputValue:
+            serializedValue: "600"
+    applyInitialState: true

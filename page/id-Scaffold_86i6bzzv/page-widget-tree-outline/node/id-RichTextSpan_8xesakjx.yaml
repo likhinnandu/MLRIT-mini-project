@@ -1,0 +1,14 @@
+key: RichTextSpan_8xesakjx
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      themeStyle: BODY_MEDIUM
+      translationIdentifier:
+        key: b7bakw6c
+      textValue:
+        inputValue: " Glass 200 ml"
+        mostRecentInputValue: " Glass 200 ml"
+      fontWeightValue:
+        inputValue: w400
+parameterValues: {}

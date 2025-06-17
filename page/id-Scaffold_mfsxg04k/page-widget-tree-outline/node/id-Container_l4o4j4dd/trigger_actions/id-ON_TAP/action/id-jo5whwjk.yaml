@@ -1,0 +1,12 @@
+navigate:
+  allowBack: true
+  passedParameters:
+    widgetClassNodeKeyRef:
+      key: Scaffold_bgb4ket9
+  isNavigateBack: false
+  transition:
+    transitionType: FADE_IN
+    durationMillis: 300
+  pageNodeKeyRef:
+    key: Scaffold_bgb4ket9
+key: jo5whwjk

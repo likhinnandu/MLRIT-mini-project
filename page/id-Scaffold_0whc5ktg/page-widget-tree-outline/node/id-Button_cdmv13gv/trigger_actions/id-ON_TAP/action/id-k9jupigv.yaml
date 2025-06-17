@@ -1,0 +1,15 @@
+auth:
+  type: CREATE_ACCOUNT
+  provider: EMAIL
+  passwordVariable:
+    source: WIDGET_CLASS_PARAMETER
+    baseVariable:
+      widgetClass:
+        paramIdentifier:
+          name: password
+          key: wn6oov
+    nodeKeyRef:
+      key: Scaffold_0whc5ktg
+  emailFieldKeyRef:
+    key: TextField_ke0owsp9
+key: k9jupigv

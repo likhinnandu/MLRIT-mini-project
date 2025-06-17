@@ -1,0 +1,36 @@
+key: Image_otktdx74
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+      height:
+        pixelsValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/debv02lcp5bv/Sun.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/debv02lcp5bv/Sun.svg
+  responsiveVisibility: {}
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        rotate:
+          begin:
+            inputValue:
+              serializedValue: "0"
+          end:
+            inputValue:
+              serializedValue: "1"
+        duration:
+          inputValue:
+            serializedValue: "900"
+    applyInitialState: true

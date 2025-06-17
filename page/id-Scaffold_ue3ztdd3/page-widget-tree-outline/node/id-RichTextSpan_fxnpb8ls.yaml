@@ -1,0 +1,10 @@
+key: RichTextSpan_fxnpb8ls
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: hg47crzf
+      textValue:
+        inputValue: "8"
+parameterValues: {}

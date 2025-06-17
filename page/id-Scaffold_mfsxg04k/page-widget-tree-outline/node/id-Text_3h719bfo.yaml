@@ -1,0 +1,20 @@
+key: Text_3h719bfo
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 89ub9uy2
+    selectable: false
+    textValue:
+      inputValue: last update 3m
+      mostRecentInputValue: last update 3m
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

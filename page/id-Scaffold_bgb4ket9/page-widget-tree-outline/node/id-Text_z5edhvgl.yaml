@@ -1,0 +1,16 @@
+key: Text_z5edhvgl
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: ms0m5ok4
+    selectable: false
+    textValue:
+      inputValue: Nearby Events
+      mostRecentInputValue: Nearby Events
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+  responsiveVisibility: {}
+parameterValues: {}

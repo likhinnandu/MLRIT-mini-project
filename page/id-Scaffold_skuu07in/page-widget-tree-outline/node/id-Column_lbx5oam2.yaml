@@ -1,0 +1,6 @@
+key: Column_lbx5oam2
+type: Column
+props:
+  column:
+    primary: true
+  responsiveVisibility: {}

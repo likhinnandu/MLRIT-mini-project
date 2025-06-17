@@ -1,0 +1,11 @@
+key: RichTextSpan_nkpoz8ut
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: kwo0lhdj
+      textValue:
+        inputValue: "4"
+        mostRecentInputValue: "4"
+parameterValues: {}

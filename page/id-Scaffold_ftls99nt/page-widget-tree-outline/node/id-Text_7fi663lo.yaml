@@ -1,0 +1,28 @@
+key: Text_7fi663lo
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: wjzwbpy9
+    selectable: false
+    textValue:
+      inputValue: Prefer not to choose
+      mostRecentInputValue: Prefer not to choose
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+    fontWeightValue:
+      inputValue: w500
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    bottomValue:
+      inputValue: 31
+      mostRecentInputValue: 31
+  responsiveVisibility: {}
+parameterValues: {}

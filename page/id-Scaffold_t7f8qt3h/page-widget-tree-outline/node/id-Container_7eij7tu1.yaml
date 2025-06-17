@@ -1,0 +1,99 @@
+key: Container_7eij7tu1
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 60
+          mostRecentInputValue: 60
+      height:
+        pixelsValue:
+          inputValue: 60
+          mostRecentInputValue: 60
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        topRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomLeftValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        bottomRightValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        allValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+        pathValue:
+          inputValue: https://images.unsplash.com/photo-1511367461989-f85a21fda167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwxfHxwcm9maWxlJTIwfGVufDB8fHx8MTcxODA0MzA4M3ww&ixlib=rb-4.0.3&q=80&w=400
+          mostRecentInputValue: https://images.unsplash.com/photo-1511367461989-f85a21fda167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwxfHxwcm9maWxlJTIwfGVufDB8fHx8MTcxODA0MzA4M3ww&ixlib=rb-4.0.3&q=80&w=400
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: SECONDARY_BACKGROUND
+      borderColorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    topValue:
+      inputValue: 210
+      mostRecentInputValue: 210
+  alignment:
+    xValue:
+      inputValue: -0.964
+      mostRecentInputValue: -0.964
+    yValue:
+      inputValue: -0.995
+      mostRecentInputValue: -0.995
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+name: Avatar
+parameterValues: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        scale:
+          beginDx:
+            inputValue:
+              serializedValue: "0.6"
+          endDx:
+            inputValue:
+              serializedValue: "1"
+          beginDy:
+            inputValue:
+              serializedValue: "0.6"
+          endDy:
+            inputValue:
+              serializedValue: "1"
+        delay: {}
+        duration:
+          inputValue:
+            serializedValue: "600"
+    applyInitialState: true
+    loop: false
+    reverse: false
+valueKey: {}

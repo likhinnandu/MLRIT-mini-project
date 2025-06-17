@@ -1,0 +1,10 @@
+appIconPath: projects/mi-fisica-7ba4da/assets/cp3c9y1zwjnd/Logo_1.png
+splashImage:
+  path: projects/mi-fisica-7ba4da/assets/cp3c9y1zwjnd/Logo_1.png
+  fit: FF_BOX_FIT_CONTAIN
+  dimensions:
+    width: {}
+    height: {}
+  backgroundColor:
+    value: "704643072"
+androidAdaptiveIcon: {}

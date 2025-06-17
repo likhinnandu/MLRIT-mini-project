@@ -1,0 +1,20 @@
+key: Icon_znbgv645
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY
+      mostRecentInputValue:
+        themeColor: PRIMARY
+    iconDataValue:
+      inputValue:
+        codePoint: 62839
+        family: MaterialIcons
+        matchTextDirection: false
+        name: arrow_drop_down_rounded
+  responsiveVisibility: {}
+parameterValues: {}

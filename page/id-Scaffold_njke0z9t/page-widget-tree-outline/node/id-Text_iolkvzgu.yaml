@@ -1,0 +1,25 @@
+key: Text_iolkvzgu
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: g44rd1co
+    selectable: false
+    textValue:
+      inputValue: "Rajeev ghandi street, Kolkata"
+      mostRecentInputValue: "Rajeev ghandi street, Kolkata"
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

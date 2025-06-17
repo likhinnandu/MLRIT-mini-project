@@ -1,0 +1,24 @@
+node:
+  key: Scaffold_mujrk7fs
+  body:
+    key: Column_4cmka50b
+    children:
+      - key: Row_9t23rrow
+        children:
+          - key: IconButton_okw6otli
+          - key: ProgressBar_1t9u57fd
+          - key: Button_v2axj0gk
+      - key: Column_clfgayin
+        children:
+          - key: RichText_boxllji3
+            children:
+              - key: RichTextSpan_rr0phwp2
+              - key: RichTextSpan_nkpoz8ut
+              - key: RichTextSpan_tdfbu2gd
+              - key: RichTextSpan_o3g2z9e2
+          - key: Text_m3owuvgj
+          - key: Text_pnkdo8pi
+      - key: Column_72dm1qwd
+        children:
+          - key: Image_7ompqnar
+      - key: Button_za0idy6e

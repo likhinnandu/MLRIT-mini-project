@@ -1,0 +1,26 @@
+key: Text_d7zjr60b
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 9x58d5gd
+    selectable: false
+    textValue:
+      inputValue: steps
+      mostRecentInputValue: steps
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        value: "4286743170"
+      mostRecentInputValue:
+        value: "4286743170"
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,33 @@
+node:
+  key: Scaffold_q9c1s0sd
+  body:
+    key: Column_py1l8law
+    children:
+      - key: Row_2ggytxxc
+        children:
+          - key: IconButton_0ch9h32n
+          - key: ProgressBar_jsxd9vwc
+          - key: Button_58vtd4hx
+      - key: RichText_0aqh9mzu
+        children:
+          - key: RichTextSpan_jwa0jisj
+          - key: RichTextSpan_oitmldl9
+          - key: RichTextSpan_6pb1quje
+          - key: RichTextSpan_vw9qw95p
+      - key: Text_0i7tiz88
+      - key: Text_6zcr3fsh
+      - key: Container_chig4xx1
+        children:
+          - key: TextField_qyvqdklj
+      - key: Container_m2v5uuh9
+        children:
+          - key: TextField_jmwbi9ns
+      - key: Column_jz2i25vf
+        children:
+          - key: Container_dsfm717o
+            children:
+              - key: TextField_td9o85uw
+          - key: Container_7szim5r7
+            children:
+              - key: TextField_mz28t0kr
+      - key: Button_96raj4ah

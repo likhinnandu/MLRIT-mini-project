@@ -1,0 +1,58 @@
+key: Container_3vz55u01
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 42
+          mostRecentInputValue: 42
+      height:
+        pixelsValue:
+          inputValue: 42
+          mostRecentInputValue: 42
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 14
+          mostRecentInputValue: 14
+        topRightValue:
+          inputValue: 14
+          mostRecentInputValue: 14
+        bottomLeftValue:
+          inputValue: 14
+          mostRecentInputValue: 14
+        bottomRightValue:
+          inputValue: 14
+          mostRecentInputValue: 14
+        allValue:
+          inputValue: 14
+          mostRecentInputValue: 14
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          paletteColorName: tertiary400
+        mostRecentInputValue:
+          paletteColorName: tertiary400
+    childAlignment:
+      xValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+      yValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

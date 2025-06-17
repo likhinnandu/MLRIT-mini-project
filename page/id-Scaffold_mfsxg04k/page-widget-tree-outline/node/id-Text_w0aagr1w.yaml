@@ -1,0 +1,18 @@
+key: Text_w0aagr1w
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 54059sbh
+    selectable: false
+    textValue:
+      inputValue: "Proteins: 56%"
+      mostRecentInputValue: "Proteins: 56%"
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

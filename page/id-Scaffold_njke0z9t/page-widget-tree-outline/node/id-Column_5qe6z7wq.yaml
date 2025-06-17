@@ -1,0 +1,6 @@
+key: Column_5qe6z7wq
+type: Column
+props:
+  column:
+    primary: true
+  responsiveVisibility: {}

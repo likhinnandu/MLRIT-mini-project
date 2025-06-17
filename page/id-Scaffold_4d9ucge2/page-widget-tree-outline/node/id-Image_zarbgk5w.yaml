@@ -1,0 +1,21 @@
+key: Image_zarbgk5w
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      height:
+        pixelsValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/wc3e9q6mfn4n/weight-scale.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/wc3e9q6mfn4n/weight-scale.svg
+  responsiveVisibility: {}
+parameterValues: {}

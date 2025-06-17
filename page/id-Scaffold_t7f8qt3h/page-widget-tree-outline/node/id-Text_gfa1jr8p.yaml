@@ -1,0 +1,20 @@
+key: Text_gfa1jr8p
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: yh6m43d6
+    selectable: false
+    textValue:
+      inputValue: "180"
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+  responsiveVisibility: {}
+parameterValues: {}

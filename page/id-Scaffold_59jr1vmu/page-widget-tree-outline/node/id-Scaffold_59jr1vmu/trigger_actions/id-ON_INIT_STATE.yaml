@@ -1,0 +1,6 @@
+rootAction:
+  key: 6dgxdidp
+  action:
+    key: kdqqturg
+trigger:
+  triggerType: ON_INIT_STATE

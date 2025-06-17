@@ -1,0 +1,65 @@
+key: Button_g0iuq7c8
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_SMALL
+      translationIdentifier:
+        key: hzez5ie2
+      textValue:
+        inputValue: Insight
+        mostRecentInputValue: Insight
+      fontSizeValue:
+        inputValue: 2
+        mostRecentInputValue: 2
+      colorValue:
+        inputValue:
+          value: "4285621731"
+        mostRecentInputValue:
+          value: "4285621731"
+      fontWeightValue:
+        inputValue: w500
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      topRightValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      bottomLeftValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      bottomRightValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+      allValue:
+        inputValue: 8
+        mostRecentInputValue: 8
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 84
+          mostRecentInputValue: 84
+      height:
+        pixelsValue:
+          inputValue: 40
+          mostRecentInputValue: 40
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        value: "4293189631"
+      mostRecentInputValue:
+        value: "4293189631"
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+  responsiveVisibility: {}
+parameterValues: {}

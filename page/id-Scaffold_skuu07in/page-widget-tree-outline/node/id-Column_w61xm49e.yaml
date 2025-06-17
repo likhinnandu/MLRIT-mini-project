@@ -1,0 +1,12 @@
+key: Column_w61xm49e
+type: Column
+props:
+  column:
+    scrollable: true
+    primary: true
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+  responsiveVisibility: {}

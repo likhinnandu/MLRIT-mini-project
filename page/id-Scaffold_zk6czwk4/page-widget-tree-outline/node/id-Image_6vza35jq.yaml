@@ -1,0 +1,21 @@
+key: Image_6vza35jq
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      height:
+        pixelsValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/g8iiej0xgufo/Location.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/g8iiej0xgufo/Location.svg
+  responsiveVisibility: {}
+parameterValues: {}

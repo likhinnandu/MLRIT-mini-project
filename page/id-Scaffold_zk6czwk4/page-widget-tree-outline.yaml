@@ -1,0 +1,55 @@
+node:
+  key: Scaffold_zk6czwk4
+  body:
+    key: Column_pz9x7t5a
+    children:
+      - key: Row_048bzfxt
+        children:
+          - key: IconButton_d5pllaim
+          - key: Button_g0iuq7c8
+      - key: Column_9la3mhld
+        children:
+          - key: Text_2xp3j94p
+          - key: Text_y0f2f515
+          - key: Stack_e907xpgp
+            children:
+              - key: ProgressBar_spwckd23
+              - key: ProgressBar_3g3t6zb7
+              - key: Column_rm3sm2bb
+                children:
+                  - key: Image_onvyx575
+                  - key: Text_5fr9suih
+                  - key: Text_d7zjr60b
+      - key: Row_5lerqnps
+        children:
+          - key: Column_6tq4d28i
+            children:
+              - key: Stack_gzh2v1r0
+                children:
+                  - key: ProgressBar_hpbrxeqq
+                  - key: Image_walu9kwz
+              - key: Text_cx8r9pt8
+          - key: Column_kkg70pqj
+            children:
+              - key: Stack_vngfx72j
+                children:
+                  - key: ProgressBar_xij0cnr2
+                  - key: Image_6vza35jq
+              - key: Text_knpvuv1m
+          - key: Column_evrtp5b3
+            children:
+              - key: Stack_sqdar9vg
+                children:
+                  - key: ProgressBar_o2x3mxfc
+                  - key: Image_a8xt9urh
+              - key: Text_j6b306af
+      - key: Container_nxu7qkqi
+        children:
+          - key: Column_88ji0n3i
+            children:
+              - key: Row_36dutj25
+                children:
+                  - key: Button_tt806w9m
+                  - key: Button_h2eetmyb
+                  - key: Button_l8moi78w
+              - key: Chart_cbuxx3wr

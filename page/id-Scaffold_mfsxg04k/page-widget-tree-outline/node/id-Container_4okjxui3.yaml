@@ -1,0 +1,71 @@
+key: Container_4okjxui3
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 48
+          mostRecentInputValue: 48
+      height:
+        pixelsValue:
+          inputValue: 48
+          mostRecentInputValue: 48
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        topRightValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        bottomLeftValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        bottomRightValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+        allValue:
+          inputValue: 12
+          mostRecentInputValue: 12
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_ASSET
+        fit: FF_BOX_FIT_CONTAIN
+        pathValue:
+          inputValue: projects/mi-fisica-7ba4da/assets/fu6awdsbyas6/profile_image.jpeg
+          mostRecentInputValue: projects/mi-fisica-7ba4da/assets/fu6awdsbyas6/profile_image.jpeg
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+        mostRecentInputValue:
+          themeColor: SECONDARY_BACKGROUND
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    topValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    rightValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    bottomValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+    allValue:
+      inputValue: 2
+      mostRecentInputValue: 2
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}

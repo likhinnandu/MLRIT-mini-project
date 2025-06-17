@@ -1,0 +1,8 @@
+key: Column_d4u9i3mo
+type: Column
+props:
+  column:
+    mainAxisAlignment: main_axis_center
+    crossAxisAlignment: cross_axis_start
+    primary: true
+  responsiveVisibility: {}

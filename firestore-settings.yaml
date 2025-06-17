@@ -1,0 +1,32 @@
+rules:
+  collectionRules:
+    8xppa4sl:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        noOne: {}
+      delete:
+        noOne: {}
+      isPublic: true
+    42x9nsmr:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        noOne: {}
+      delete:
+        noOne: {}
+      isPublic: true
+  usersCollectionReadVisibility: READ_VISIBILITY_SELF
+validation:
+  lastValidatedCollectionHash:
+    user_login: "361630728"
+    bl27njjl: "361630728"
+  mode: DISABLED
+storageRules:
+  excludeFromStorageRules: true
+suppressOnUserDeletedErrors: true
+databaseId: A1

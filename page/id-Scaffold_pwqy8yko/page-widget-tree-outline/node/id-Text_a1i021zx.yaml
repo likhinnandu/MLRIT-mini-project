@@ -1,0 +1,20 @@
+key: Text_a1i021zx
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: mhweqbkg
+    selectable: false
+    textValue:
+      inputValue: 32%
+      mostRecentInputValue: 32%
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

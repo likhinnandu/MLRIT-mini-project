@@ -1,0 +1,6 @@
+key: Column_gbsgar4f
+type: Column
+props:
+  column:
+    primary: true
+  responsiveVisibility: {}

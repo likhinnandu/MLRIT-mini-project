@@ -1,0 +1,11 @@
+key: Row_5jp8tqdv
+type: Row
+props:
+  row:
+    crossAxisAlignment: cross_axis_end
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+  responsiveVisibility: {}

@@ -1,0 +1,21 @@
+key: Text_3qmlvii1
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: tsh96lyt
+    selectable: false
+    textValue:
+      inputValue: "58.7"
+      mostRecentInputValue: "58.7"
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+  responsiveVisibility: {}
+parameterValues: {}

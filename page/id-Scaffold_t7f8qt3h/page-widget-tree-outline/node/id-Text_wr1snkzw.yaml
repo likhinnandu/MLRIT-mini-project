@@ -1,0 +1,23 @@
+key: Text_wr1snkzw
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: e41nndqy
+    selectable: false
+    textValue:
+      inputValue: Unlock all features to improve your health
+      mostRecentInputValue: Unlock all features to improve your health
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    fontWeightValue:
+      inputValue: w500
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

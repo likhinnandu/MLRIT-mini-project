@@ -1,0 +1,19 @@
+key: Text_vtb0quep
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: mbxf5yd7
+    selectable: false
+    textValue:
+      inputValue: Be a part of our new and healthy users
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

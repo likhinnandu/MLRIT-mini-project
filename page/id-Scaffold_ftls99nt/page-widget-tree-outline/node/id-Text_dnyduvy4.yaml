@@ -1,0 +1,20 @@
+key: Text_dnyduvy4
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: cqr6emz0
+    selectable: false
+    textValue:
+      inputValue: Female
+      mostRecentInputValue: Female
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,25 @@
+key: Text_km2njpkj
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: twp561b2
+    selectable: false
+    textValue:
+      inputValue: 6:30 PM - 7:30 PM
+      mostRecentInputValue: 6:30 PM - 7:30 PM
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

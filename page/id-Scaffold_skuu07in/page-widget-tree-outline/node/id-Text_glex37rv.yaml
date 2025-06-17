@@ -1,0 +1,18 @@
+key: Text_glex37rv
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 0k2t9f6z
+    selectable: false
+    textValue:
+      inputValue: "15"
+      mostRecentInputValue: "15"
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+  responsiveVisibility: {}
+parameterValues: {}

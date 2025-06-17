@@ -1,0 +1,37 @@
+fields:
+  - parameter:
+      identifier:
+        name: xAxis
+        key: 3ofg2vzv
+      dataType:
+        listType:
+          scalarType: Double
+        subType:
+          collectionIdentifier: {}
+    persisted: true
+    serializedDefaultValue:
+      - "1"
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+      - "6"
+      - "7"
+  - parameter:
+      identifier:
+        name: yAxis
+        key: d744iij8
+      dataType:
+        listType:
+          scalarType: Double
+        subType:
+          collectionIdentifier: {}
+    persisted: true
+    serializedDefaultValue:
+      - "2"
+      - "3"
+      - "6"
+      - "4"
+      - "5"
+      - "3"
+      - "4"

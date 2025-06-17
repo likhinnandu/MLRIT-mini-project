@@ -1,0 +1,47 @@
+key: ProgressBar_uut4f7he
+type: ProgressBar
+props:
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+  progressBar:
+    shape: Linear
+    text:
+      themeStyle: BODY_MEDIUM
+      textValue:
+        inputValue: ""
+        mostRecentInputValue: ""
+      colorValue:
+        inputValue:
+          paletteColorName: tertiary400
+        mostRecentInputValue:
+          paletteColorName: tertiary400
+    size:
+      width:
+        pixelsValue:
+          inputValue: 120
+          mostRecentInputValue: 120
+      height:
+        pixelsValue:
+          inputValue: 8
+          mostRecentInputValue: 8
+    percentValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    progressColorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+    backgroundColorValue:
+      inputValue:
+        value: "4293519849"
+      mostRecentInputValue:
+        value: "4293519849"
+    animationValue:
+      inputValue: true
+      mostRecentInputValue: true
+    barRadiusValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+parameterValues: {}

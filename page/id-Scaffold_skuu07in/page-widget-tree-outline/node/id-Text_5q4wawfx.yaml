@@ -1,0 +1,16 @@
+key: Text_5q4wawfx
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: k975nw5b
+    selectable: false
+    textValue:
+      inputValue: "920"
+      mostRecentInputValue: "920"
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+parameterValues: {}

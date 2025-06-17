@@ -1,0 +1,199 @@
+loadingIndicatorStyle:
+  type: CIRCULAR
+  color:
+    themeColor: PRIMARY
+  diameter: 50
+defaultTypography:
+  primaryFontFamily: Poppins
+  secondaryFontFamily: Open Sans
+  displaySmall:
+    fontFamily: Rubik
+    isCustomFont: false
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        value: "4281151298"
+      mostRecentInputValue:
+        value: "4281151298"
+    fontWeightValue:
+      inputValue: w600
+  headlineMedium:
+    fontFamily: Rubik
+    isCustomFont: false
+    fontSizeValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  headlineSmall:
+    fontFamily: Rubik
+    isCustomFont: false
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  titleMedium:
+    fontFamily: Rubik
+    isCustomFont: false
+    fontSizeValue:
+      inputValue: 18
+      mostRecentInputValue: 18
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  titleSmall:
+    fontFamily: Rubik
+    isCustomFont: false
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  bodyMedium:
+    fontFamily: Rubik
+    isCustomFont: false
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        value: "4281151298"
+      mostRecentInputValue:
+        value: "4281151298"
+    fontWeightValue:
+      inputValue: w600
+  bodySmall:
+    fontFamily: Rubik
+    isCustomFont: false
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  displayLarge:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 57
+      mostRecentInputValue: 57
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  displayMedium:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 45
+      mostRecentInputValue: 45
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  headlineLarge:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 32
+      mostRecentInputValue: 32
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  titleLarge:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  labelLarge:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  labelMedium:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  labelSmall:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 11
+      mostRecentInputValue: 11
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  bodyLarge:
+    fontFamily: Poppins
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+breakPoints:
+  small: 479
+  medium: 767
+  large: 991

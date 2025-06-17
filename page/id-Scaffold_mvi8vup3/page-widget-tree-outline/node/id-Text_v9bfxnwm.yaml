@@ -1,0 +1,20 @@
+key: Text_v9bfxnwm
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 6o30nbg6
+    selectable: false
+    textValue:
+      inputValue: 100g
+      mostRecentInputValue: 100g
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

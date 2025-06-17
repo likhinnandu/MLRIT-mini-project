@@ -1,0 +1,6 @@
+key: Row_5ye2rejf
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_space_between
+  responsiveVisibility: {}

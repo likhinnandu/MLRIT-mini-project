@@ -1,0 +1,11 @@
+key: RichTextSpan_kpd3pdxm
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: dqcg8zk7
+      textValue:
+        inputValue: " of water"
+        mostRecentInputValue: " of water"
+parameterValues: {}

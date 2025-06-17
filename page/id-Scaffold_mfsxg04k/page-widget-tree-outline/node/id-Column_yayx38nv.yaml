@@ -1,0 +1,37 @@
+key: Column_yayx38nv
+type: Column
+props:
+  column:
+    primary: true
+    minSizeValue:
+      inputValue: true
+      mostRecentInputValue: true
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    topValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}
+animations:
+  - trigger: ON_PAGE_LOAD
+    effects:
+      - curve: EASE_IN_OUT
+        fade:
+          begin:
+            inputValue:
+              serializedValue: "0"
+          end:
+            inputValue:
+              serializedValue: "1"
+        duration:
+          inputValue:
+            serializedValue: "600"
+    applyInitialState: true

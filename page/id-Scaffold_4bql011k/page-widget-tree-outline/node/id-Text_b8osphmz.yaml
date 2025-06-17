@@ -1,0 +1,36 @@
+key: Text_b8osphmz
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: vcld6lae
+    selectable: false
+    textValue:
+      inputValue: Time to customize your interest
+      mostRecentInputValue: Time to customize your interest
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    fontWeightValue:
+      inputValue: w500
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 96
+      mostRecentInputValue: 96
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 96
+      mostRecentInputValue: 96
+  responsiveVisibility: {}
+parameterValues: {}

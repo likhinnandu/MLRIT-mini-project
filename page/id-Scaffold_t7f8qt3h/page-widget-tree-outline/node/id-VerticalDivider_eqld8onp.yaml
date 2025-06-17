@@ -1,0 +1,17 @@
+key: VerticalDivider_eqld8onp
+type: VerticalDivider
+props:
+  responsiveVisibility: {}
+  verticalDivider:
+    thicknessValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    colorValue:
+      inputValue:
+        value: "4293519849"
+      mostRecentInputValue:
+        value: "4293519849"
+    heightValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+parameterValues: {}

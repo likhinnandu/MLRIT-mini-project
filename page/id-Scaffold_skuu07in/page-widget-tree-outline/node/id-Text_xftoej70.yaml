@@ -1,0 +1,16 @@
+key: Text_xftoej70
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: fmiyyhf3
+    selectable: false
+    textValue:
+      inputValue: "920"
+      mostRecentInputValue: "920"
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+parameterValues: {}

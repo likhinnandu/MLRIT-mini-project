@@ -1,0 +1,10 @@
+key: RichTextSpan_ackgoa12
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: 1ha1mzzg
+      textValue:
+        inputValue: "8"
+parameterValues: {}

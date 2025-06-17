@@ -1,0 +1,38 @@
+key: Image_cmlilycn
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+      height:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/80fvgqw41tzm/Bed.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/80fvgqw41tzm/Bed.svg
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    topValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    rightValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    bottomValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    allValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,20 @@
+key: Text_1ruw43xi
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: z2xbfo0r
+    selectable: false
+    textValue:
+      inputValue: by The Commonwealth Club
+      mostRecentInputValue: by The Commonwealth Club
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

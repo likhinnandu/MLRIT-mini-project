@@ -1,0 +1,13 @@
+key: RichText_p3xut4mj
+type: RichText
+props:
+  responsiveVisibility: {}
+  richText:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      colorValue:
+        inputValue:
+          paletteColorName: White
+        mostRecentInputValue:
+          paletteColorName: White
+parameterValues: {}

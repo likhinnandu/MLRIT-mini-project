@@ -1,0 +1,23 @@
+key: RichText_0aqh9mzu
+type: RichText
+props:
+  responsiveVisibility: {}
+  richText:
+    textStyle:
+      themeStyle: BODY_MEDIUM
+      colorValue:
+        inputValue:
+          paletteColorName: tertiary400
+        mostRecentInputValue:
+          paletteColorName: tertiary400
+      letterSpacingValue:
+        inputValue: 1
+        mostRecentInputValue: 1
+      fontWeightValue:
+        inputValue: w500
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+parameterValues: {}
+valueKey: {}

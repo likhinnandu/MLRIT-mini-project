@@ -1,0 +1,7 @@
+key: Column_ws4hd3dq
+type: Column
+props:
+  column:
+    crossAxisAlignment: cross_axis_start
+    primary: true
+  responsiveVisibility: {}

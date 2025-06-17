@@ -1,0 +1,8 @@
+key: Row_1u58t2ax
+type: Row
+props:
+  row:
+    minSizeValue:
+      inputValue: true
+      mostRecentInputValue: true
+  responsiveVisibility: {}

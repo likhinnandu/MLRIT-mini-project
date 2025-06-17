@@ -1,0 +1,6 @@
+rootAction:
+  key: m155zyiy
+  action:
+    key: ax8vlkov
+trigger:
+  triggerType: ON_INIT_STATE

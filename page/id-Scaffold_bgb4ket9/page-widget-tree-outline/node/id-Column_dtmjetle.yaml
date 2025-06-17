@@ -1,0 +1,7 @@
+key: Column_dtmjetle
+type: Column
+props:
+  column:
+    scrollable: true
+    primary: true
+  responsiveVisibility: {}

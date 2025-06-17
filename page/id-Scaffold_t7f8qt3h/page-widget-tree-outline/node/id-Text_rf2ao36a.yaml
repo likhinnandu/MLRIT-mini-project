@@ -1,0 +1,26 @@
+key: Text_rf2ao36a
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 63gqoo0e
+    selectable: false
+    textValue:
+      inputValue: STEPS
+      mostRecentInputValue: STEPS
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+    letterSpacingValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,15 @@
+key: Text_4imcg934
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: i5tusgu4
+    selectable: false
+    textValue:
+      inputValue: Salad with wheat and white egg
+      mostRecentInputValue: Salad with wheat and white egg
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

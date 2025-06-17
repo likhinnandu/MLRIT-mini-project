@@ -1,0 +1,23 @@
+key: Text_4t9bx36u
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: euqjf75f
+    selectable: false
+    textValue:
+      inputValue: 24 Feb 2023
+      mostRecentInputValue: 24 Feb 2023
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

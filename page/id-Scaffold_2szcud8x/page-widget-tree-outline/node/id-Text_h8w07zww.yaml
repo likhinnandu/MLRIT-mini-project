@@ -1,0 +1,30 @@
+key: Text_h8w07zww
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: zpgjk6bb
+    selectable: false
+    textValue:
+      inputValue: Access to hundreds of guided lessons and science backup programs
+      mostRecentInputValue: Access to hundreds of guided lessons and science backup programs
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+parameterValues: {}

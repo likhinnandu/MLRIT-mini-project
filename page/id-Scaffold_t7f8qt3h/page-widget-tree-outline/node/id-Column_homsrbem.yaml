@@ -1,0 +1,7 @@
+key: Column_homsrbem
+type: Column
+props:
+  column:
+    crossAxisAlignment: cross_axis_start
+    primary: true
+  responsiveVisibility: {}

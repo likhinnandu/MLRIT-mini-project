@@ -1,0 +1,20 @@
+node:
+  key: Scaffold_fw8bolik
+  body:
+    key: Column_lupqn2x1
+    children:
+      - key: Row_3cpp2h7f
+        children:
+          - key: IconButton_y6appqk0
+          - key: ProgressBar_n2kmlzom
+          - key: Button_ms59r18h
+      - key: Column_vwlu4abo
+        children:
+          - key: Text_jw4dry03
+          - key: Text_dr8lyvfm
+      - key: Column_1psp1i6k
+        children:
+          - key: Image_qxabv2z3
+          - key: PinCode_r87l863s
+          - key: Text_nz19ppxw
+      - key: Button_tb2eih0r

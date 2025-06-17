@@ -1,0 +1,15 @@
+key: Text_vw5lfg4l
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: pcjbwbvq
+    selectable: false
+    textValue:
+      inputValue: 7 Nutrition Tips to Lose Weight Faster
+      mostRecentInputValue: 7 Nutrition Tips to Lose Weight Faster
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

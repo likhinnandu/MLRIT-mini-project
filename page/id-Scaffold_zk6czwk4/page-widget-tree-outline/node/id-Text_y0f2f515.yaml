@@ -1,0 +1,34 @@
+key: Text_y0f2f515
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 3p2kad1n
+    selectable: false
+    textValue:
+      inputValue: You have walked 40% of your goal
+      mostRecentInputValue: You have walked 40% of your goal
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+    topValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    rightValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+  responsiveVisibility: {}
+parameterValues: {}

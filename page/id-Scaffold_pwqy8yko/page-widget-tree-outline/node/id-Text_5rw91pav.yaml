@@ -1,0 +1,20 @@
+key: Text_5rw91pav
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: u1ek9scd
+    selectable: false
+    textValue:
+      inputValue: Protein
+      mostRecentInputValue: Protein
+    colorValue:
+      inputValue:
+        themeColor: TERTIARY
+      mostRecentInputValue:
+        themeColor: TERTIARY
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

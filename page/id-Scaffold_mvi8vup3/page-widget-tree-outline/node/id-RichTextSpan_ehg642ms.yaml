@@ -1,0 +1,11 @@
+key: RichTextSpan_ehg642ms
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: yd08bdt4
+      textValue:
+        inputValue: "72"
+        mostRecentInputValue: "72"
+parameterValues: {}

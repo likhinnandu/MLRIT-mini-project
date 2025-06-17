@@ -1,0 +1,16 @@
+key: Text_0mvq74wd
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 7260h4bm
+    selectable: false
+    textValue:
+      inputValue: "120"
+      mostRecentInputValue: "120"
+    fontSizeValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+  responsiveVisibility: {}
+parameterValues: {}

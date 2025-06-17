@@ -1,0 +1,18 @@
+key: Text_x95i3b0k
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: dwowhuw8
+    selectable: false
+    textValue:
+      inputValue: "16"
+      mostRecentInputValue: "16"
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+  responsiveVisibility: {}
+parameterValues: {}

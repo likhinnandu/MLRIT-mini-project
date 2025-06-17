@@ -1,0 +1,26 @@
+key: Image_6o9vt8u8
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: 144
+          mostRecentInputValue: 144
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/f2v4fj17ak65/pay_online.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/f2v4fj17ak65/pay_online.svg
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+  responsiveVisibility: {}
+parameterValues: {}

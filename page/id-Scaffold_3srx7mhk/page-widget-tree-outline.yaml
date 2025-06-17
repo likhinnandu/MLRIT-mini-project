@@ -1,0 +1,19 @@
+node:
+  key: Scaffold_3srx7mhk
+  body:
+    key: Column_39zba8jy
+    children:
+      - key: Column_i81ery00
+        children:
+          - key: Image_5b8bno5w
+          - key: Row_v9v1b8kt
+            children:
+              - key: Column_1ipmbuaj
+                children:
+                  - key: Text_pb3r2zko
+                  - key: Text_4zq09ilm
+                  - key: Text_sdu8gqzn
+      - key: Column_a4fgf36v
+        children:
+          - key: Image_ee9wl7ws
+      - key: Button_40uo3fxc

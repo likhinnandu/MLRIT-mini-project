@@ -1,0 +1,29 @@
+key: Container_h82s2y59
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 2
+          mostRecentInputValue: 2
+      height:
+        pixelsValue:
+          inputValue: 96
+          mostRecentInputValue: 96
+    boxDecoration:
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          themeColor: TERTIARY
+        mostRecentInputValue:
+          themeColor: TERTIARY
+    maxDimensions: {}
+    clipContent: true
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  responsiveVisibility: {}
+parameterValues: {}

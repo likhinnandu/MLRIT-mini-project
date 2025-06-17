@@ -1,0 +1,6 @@
+key: Row_9vx08p7p
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_space_between
+  responsiveVisibility: {}

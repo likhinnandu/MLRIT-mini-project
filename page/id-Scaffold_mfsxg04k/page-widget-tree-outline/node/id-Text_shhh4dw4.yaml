@@ -1,0 +1,20 @@
+key: Text_shhh4dw4
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 2ih81jup
+    selectable: false
+    textValue:
+      inputValue: Challenge your friends by taking the most steps on Saturday and Sunday!
+      mostRecentInputValue: Challenge your friends by taking the most steps on Saturday and Sunday!
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

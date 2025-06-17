@@ -1,0 +1,26 @@
+key: Text_vpomcsn0
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 6knkdtbg
+    selectable: false
+    textValue:
+      inputValue: Get Unlimited Access
+      mostRecentInputValue: Get Unlimited Access
+    fontSizeValue:
+      inputValue: 18
+      mostRecentInputValue: 18
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+  responsiveVisibility: {}
+parameterValues: {}

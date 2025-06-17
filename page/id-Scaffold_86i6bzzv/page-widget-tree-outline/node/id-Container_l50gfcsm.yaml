@@ -1,0 +1,59 @@
+key: Container_l50gfcsm
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: 60
+          mostRecentInputValue: 60
+    boxDecoration:
+      borderRadius:
+        type: FF_BORDER_RADIUS_ALL
+        topLeftValue:
+          inputValue: 36
+          mostRecentInputValue: 36
+        topRightValue:
+          inputValue: 36
+          mostRecentInputValue: 36
+        bottomLeftValue:
+          inputValue: 36
+          mostRecentInputValue: 36
+        bottomRightValue:
+          inputValue: 36
+          mostRecentInputValue: 36
+        allValue:
+          inputValue: 36
+          mostRecentInputValue: 36
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          value: "4286506224"
+        mostRecentInputValue:
+          value: "4286506224"
+    maxDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    bottomValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+parameterValues: {}

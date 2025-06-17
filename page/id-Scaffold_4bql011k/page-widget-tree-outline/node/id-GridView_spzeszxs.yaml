@@ -1,0 +1,36 @@
+key: GridView_spzeszxs
+type: GridView
+props:
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+    rightValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+  gridView:
+    shrinkWrapValue:
+      inputValue: true
+      mostRecentInputValue: true
+    crossAxisCountValue:
+      inputValue: 3
+      mostRecentInputValue: 3
+    crossAxisSpacingValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+    mainAxisSpacingValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+    childAspectRatioValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    primaryValue:
+      inputValue: false
+      mostRecentInputValue: false
+    isHorizontalValue:
+      inputValue: false
+      mostRecentInputValue: false
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}

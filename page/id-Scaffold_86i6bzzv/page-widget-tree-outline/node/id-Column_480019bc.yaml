@@ -1,0 +1,11 @@
+key: Column_480019bc
+type: Column
+props:
+  column:
+    primary: true
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}

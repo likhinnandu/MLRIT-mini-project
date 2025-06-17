@@ -1,0 +1,81 @@
+key: Button_cdmv13gv
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_SMALL
+      translationIdentifier:
+        key: sykdtydq
+      textValue:
+        inputValue: Continue
+        mostRecentInputValue: Continue
+      fontSizeValue:
+        inputValue: 14
+        mostRecentInputValue: 14
+      colorValue:
+        inputValue:
+          value: "4294967295"
+        mostRecentInputValue:
+          value: "4294967295"
+      fontWeightValue:
+        inputValue: w400
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      topLeftValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      topRightValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      bottomLeftValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      bottomRightValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+      allValue:
+        inputValue: 16
+        mostRecentInputValue: 16
+    innerPadding:
+      type: FF_PADDING_ALL
+      allValue:
+        inputValue: 0
+        mostRecentInputValue: 0
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: 54
+          mostRecentInputValue: 54
+    elevationValue:
+      inputValue: 0
+      mostRecentInputValue: 0
+    fillColorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 72
+      mostRecentInputValue: 72
+    rightValue:
+      inputValue: 72
+      mostRecentInputValue: 72
+    bottomValue:
+      inputValue: 60
+      mostRecentInputValue: 60
+  responsiveVisibility: {}
+parameterValues: {}

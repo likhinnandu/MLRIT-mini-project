@@ -1,0 +1,30 @@
+key: Text_drfy7b52
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: jvw55h9h
+    selectable: false
+    textValue:
+      inputValue: Learn to manage feelings and thought with everyday mindfulness
+      mostRecentInputValue: Learn to manage feelings and thought with everyday mindfulness
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+  expanded:
+    expandedType: EXPANDED
+  responsiveVisibility: {}
+parameterValues: {}

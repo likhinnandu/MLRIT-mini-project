@@ -1,0 +1,56 @@
+node:
+  key: Scaffold_pwqy8yko
+  body:
+    key: Column_ka7cw7o8
+    children:
+      - key: Row_puxefpod
+        children:
+          - key: IconButton_ewfimfun
+          - key: Button_cp77ia3d
+      - key: Column_a4p76wia
+        children:
+          - key: Text_r5k4l19i
+          - key: RichText_3j1dwt2d
+            children:
+              - key: RichTextSpan_l4ea6fmd
+              - key: RichTextSpan_8kk4ae29
+          - key: Stack_h8xrpeb8
+            children:
+              - key: ProgressBar_t4igtkr2
+              - key: ProgressBar_r3houpse
+              - key: ProgressBar_kt0qbvud
+              - key: Column_veexm37l
+                children:
+                  - key: Text_9c1s289r
+                  - key: Text_g6gqjqkw
+      - key: Column_mjzhgn25
+        children:
+          - key: ListView_x8ryx2tk
+            children:
+              - key: Column_5qivjr5f
+                children:
+                  - key: Row_r00e8nvr
+                    children:
+                      - key: Container_wwgpwsdb
+                      - key: Text_t3tvby8s
+                      - key: Text_9aqutbmc
+                      - key: Text_a1i021zx
+                  - key: Divider_twi0x4ef
+              - key: Column_guj20h84
+                children:
+                  - key: Row_9vx08p7p
+                    children:
+                      - key: Container_1ydun7ct
+                      - key: Text_5rw91pav
+                      - key: Text_a5ji8p2f
+                      - key: Text_8akc5w0r
+                  - key: Divider_dx0ojdxu
+              - key: Column_gnghzss8
+                children:
+                  - key: Row_5ye2rejf
+                    children:
+                      - key: Container_rabi39mx
+                      - key: Text_lwy3hl6q
+                      - key: Text_irj4w83b
+                      - key: Text_5w5svhsa
+      - key: Button_eb8zcgeg

@@ -1,0 +1,50 @@
+key: IconButton_ps089akl
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 36
+        mostRecentInputValue: 36
+    fillColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderRadiusValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 16
+          mostRecentInputValue: 16
+        colorValue:
+          inputValue:
+            value: "4290624957"
+          mostRecentInputValue:
+            value: "4290624957"
+        iconDataValue:
+          inputValue:
+            codePoint: 62189
+            family: FontAwesomeRegular
+            package: font_awesome_flutter
+            matchTextDirection: false
+            packageIcon:
+              fontAwesome: trashAlt
+            name: trashAlt
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,17 @@
+key: Divider_yqk5n92p
+type: Divider
+props:
+  divider:
+    heightValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+    thicknessValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    colorValue:
+      inputValue:
+        value: "4293519849"
+      mostRecentInputValue:
+        value: "4293519849"
+  responsiveVisibility: {}
+parameterValues: {}

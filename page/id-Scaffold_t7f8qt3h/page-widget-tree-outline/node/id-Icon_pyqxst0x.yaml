@@ -1,0 +1,20 @@
+key: Icon_pyqxst0x
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+    iconDataValue:
+      inputValue:
+        codePoint: 63160
+        family: MaterialIcons
+        matchTextDirection: false
+        name: directions_run_rounded
+  responsiveVisibility: {}
+parameterValues: {}

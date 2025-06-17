@@ -1,0 +1,20 @@
+key: Text_t3tvby8s
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: jmcelcks
+    selectable: false
+    textValue:
+      inputValue: Carbs
+      mostRecentInputValue: Carbs
+    colorValue:
+      inputValue:
+        paletteColorName: btnText
+      mostRecentInputValue:
+        paletteColorName: btnText
+    fontWeightValue:
+      inputValue: w400
+  responsiveVisibility: {}
+parameterValues: {}

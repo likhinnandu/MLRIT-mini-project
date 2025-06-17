@@ -1,0 +1,18 @@
+key: Text_wq5p77cz
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 803m1886
+    selectable: false
+    textValue:
+      inputValue: Commonwealth Club
+      mostRecentInputValue: Commonwealth Club
+    colorValue:
+      inputValue:
+        paletteColorName: btnText
+      mostRecentInputValue:
+        paletteColorName: btnText
+  responsiveVisibility: {}
+parameterValues: {}

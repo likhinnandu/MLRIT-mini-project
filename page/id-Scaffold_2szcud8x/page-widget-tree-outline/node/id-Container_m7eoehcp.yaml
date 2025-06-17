@@ -1,0 +1,58 @@
+key: Container_m7eoehcp
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+          mostRecentInputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: 84
+          mostRecentInputValue: 84
+    boxDecoration:
+      borderRadius:
+        topLeftValue:
+          inputValue: 18
+          mostRecentInputValue: 18
+        topRightValue:
+          inputValue: 18
+          mostRecentInputValue: 18
+        bottomLeftValue:
+          inputValue: 18
+          mostRecentInputValue: 18
+        bottomRightValue:
+          inputValue: 18
+          mostRecentInputValue: 18
+      boxShadow: {}
+      image:
+        type: FF_IMAGE_TYPE_NETWORK
+      colorValue:
+        inputValue:
+          value: "4294309626"
+        mostRecentInputValue:
+          value: "4294309626"
+    maxDimensions: {}
+    minDimensions: {}
+    animationDurationValue:
+      inputValue: 100
+      mostRecentInputValue: 100
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    topValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+parameterValues: {}
+valueKey: {}

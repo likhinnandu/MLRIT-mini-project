@@ -1,0 +1,28 @@
+key: Text_eigyvzta
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: nq32s1mc
+    selectable: false
+    textValue:
+      inputValue: "This diabetic friendly egg white recipe promotes healthy weight loss, lowers high cholesterol."
+      mostRecentInputValue: "This diabetic friendly egg white recipe promotes healthy weight loss, lowers high cholesterol."
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 8
+      mostRecentInputValue: 8
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  responsiveVisibility: {}
+parameterValues: {}

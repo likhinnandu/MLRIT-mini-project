@@ -1,0 +1,33 @@
+key: Text_radn0bca
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: xailv1ib
+    selectable: false
+    textValue:
+      inputValue: You can select photo from one of this emoji or add your own photo as profile picture
+      mostRecentInputValue: You can select photo from one of this emoji or add your own photo as profile picture
+    colorValue:
+      inputValue:
+        paletteColorName: White
+      mostRecentInputValue:
+        paletteColorName: White
+    letterSpacingValue:
+      inputValue: 0.2
+      mostRecentInputValue: 0.2
+    fontWeightValue:
+      inputValue: w400
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 84
+      mostRecentInputValue: 84
+    rightValue:
+      inputValue: 84
+      mostRecentInputValue: 84
+  responsiveVisibility: {}
+parameterValues: {}

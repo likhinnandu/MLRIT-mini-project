@@ -1,0 +1,21 @@
+key: Image_a8xt9urh
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_COVER
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+      height:
+        pixelsValue:
+          inputValue: 24
+          mostRecentInputValue: 24
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/udzom6hxy5k2/stopwatch.svg
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/udzom6hxy5k2/stopwatch.svg
+  responsiveVisibility: {}
+parameterValues: {}

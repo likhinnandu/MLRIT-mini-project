@@ -1,0 +1,6 @@
+rootAction:
+  key: sefjylc7
+  action:
+    key: 07spoole
+trigger:
+  triggerType: ON_DOUBLE_TAP

@@ -1,0 +1,17 @@
+key: Row_9y5q3c8c
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_end
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    topValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    rightValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+  responsiveVisibility: {}

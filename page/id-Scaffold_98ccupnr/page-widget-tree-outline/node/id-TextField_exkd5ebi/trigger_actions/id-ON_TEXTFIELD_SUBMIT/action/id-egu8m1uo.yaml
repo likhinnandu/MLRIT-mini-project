@@ -1,0 +1,4 @@
+auth:
+  type: CREATE_ACCOUNT
+  provider: ANONYMOUS
+key: egu8m1uo

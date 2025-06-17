@@ -1,0 +1,11 @@
+key: RichTextSpan_7bgzhsdc
+type: RichTextSpan
+props:
+  richTextSpan:
+    textSpan:
+      translationIdentifier:
+        key: wus9cher
+      textValue:
+        inputValue: " of "
+        mostRecentInputValue: " of "
+parameterValues: {}

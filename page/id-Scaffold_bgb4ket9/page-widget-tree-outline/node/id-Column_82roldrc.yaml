@@ -1,0 +1,6 @@
+key: Column_82roldrc
+type: Column
+props:
+  column:
+    primary: true
+  responsiveVisibility: {}

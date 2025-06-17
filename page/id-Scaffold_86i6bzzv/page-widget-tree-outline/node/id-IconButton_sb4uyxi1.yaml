@@ -1,0 +1,37 @@
+key: IconButton_sb4uyxi1
+type: IconButton
+props:
+  iconButton:
+    buttonSize:
+      pixelsValue:
+        inputValue: 60
+        mostRecentInputValue: 60
+    borderRadiusValue:
+      inputValue: 30
+      mostRecentInputValue: 30
+    borderColorValue:
+      inputValue:
+        value: "0"
+      mostRecentInputValue:
+        value: "0"
+    borderWidthValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    iconValue:
+      inputValue:
+        sizeValue:
+          inputValue: 30
+          mostRecentInputValue: 30
+        colorValue:
+          inputValue:
+            paletteColorName: tertiary400
+          mostRecentInputValue:
+            paletteColorName: tertiary400
+        iconDataValue:
+          inputValue:
+            codePoint: 58196
+            family: MaterialIcons
+            matchTextDirection: false
+            name: keyboard_arrow_left
+  responsiveVisibility: {}
+parameterValues: {}

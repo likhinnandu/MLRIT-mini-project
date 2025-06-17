@@ -1,0 +1,36 @@
+key: Text_jw4dry03
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 5ywtqo4p
+    selectable: false
+    textValue:
+      inputValue: Verify your number
+      mostRecentInputValue: Verify your number
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        paletteColorName: primaryBtnText
+      mostRecentInputValue:
+        paletteColorName: primaryBtnText
+    fontWeightValue:
+      inputValue: w500
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 96
+      mostRecentInputValue: 96
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 96
+      mostRecentInputValue: 96
+  responsiveVisibility: {}
+parameterValues: {}

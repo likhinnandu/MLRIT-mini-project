@@ -1,0 +1,21 @@
+key: Text_e93vsqji
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 9yk1fqwc
+    selectable: false
+    textValue:
+      inputValue: My Progress
+      mostRecentInputValue: My Progress
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        paletteColorName: btnText
+      mostRecentInputValue:
+        paletteColorName: btnText
+  responsiveVisibility: {}
+parameterValues: {}

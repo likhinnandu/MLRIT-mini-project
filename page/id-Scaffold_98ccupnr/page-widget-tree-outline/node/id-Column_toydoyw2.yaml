@@ -1,0 +1,11 @@
+key: Column_toydoyw2
+type: Column
+props:
+  column:
+    primary: true
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 48
+      mostRecentInputValue: 48
+  responsiveVisibility: {}

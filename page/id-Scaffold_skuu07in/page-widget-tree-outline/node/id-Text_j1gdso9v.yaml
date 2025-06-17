@@ -1,0 +1,18 @@
+key: Text_j1gdso9v
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: luzyd4fk
+    selectable: false
+    textValue:
+      inputValue: "11"
+      mostRecentInputValue: "11"
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+  responsiveVisibility: {}
+parameterValues: {}

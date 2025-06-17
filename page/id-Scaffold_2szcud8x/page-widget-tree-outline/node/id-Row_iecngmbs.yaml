@@ -1,0 +1,21 @@
+key: Row_iecngmbs
+type: Row
+props:
+  row:
+    minSizeValue:
+      inputValue: true
+      mostRecentInputValue: true
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    topValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+    rightValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+  expanded:
+    expandedType: UNEXPANDED
+  responsiveVisibility: {}

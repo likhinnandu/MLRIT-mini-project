@@ -1,0 +1,36 @@
+key: Text_m3owuvgj
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 73vxoi8t
+    selectable: false
+    textValue:
+      inputValue: Enable Fingerprint
+      mostRecentInputValue: Enable Fingerprint
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        paletteColorName: btnText
+      mostRecentInputValue:
+        paletteColorName: btnText
+    fontWeightValue:
+      inputValue: w500
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 96
+      mostRecentInputValue: 96
+    topValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    rightValue:
+      inputValue: 96
+      mostRecentInputValue: 96
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,20 @@
+key: Icon_5oj5hk7i
+type: Icon
+props:
+  icon:
+    sizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        value: "4278190080"
+      mostRecentInputValue:
+        value: "4278190080"
+    iconDataValue:
+      inputValue:
+        codePoint: 59288
+        family: MaterialIcons
+        matchTextDirection: false
+        name: arrow_drop_down_sharp
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,9 @@
+key: Row_2b8uhq23
+type: Row
+props:
+  row:
+    mainAxisAlignment: main_axis_space_between
+    minSizeValue:
+      inputValue: true
+      mostRecentInputValue: true
+  responsiveVisibility: {}

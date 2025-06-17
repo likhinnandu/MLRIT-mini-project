@@ -1,0 +1,25 @@
+key: Text_lblmcuhl
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: bb18dt52
+    selectable: false
+    textValue:
+      inputValue: Add more calories to your diet
+      mostRecentInputValue: Add more calories to your diet
+    colorValue:
+      inputValue:
+        value: "4286743170"
+      mostRecentInputValue:
+        value: "4286743170"
+    fontWeightValue:
+      inputValue: w400
+  padding:
+    type: FF_PADDING_ONLY
+    topValue:
+      inputValue: 6
+      mostRecentInputValue: 6
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,26 @@
+key: Text_r5k4l19i
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: 0vtx9grn
+    selectable: false
+    textValue:
+      inputValue: DAILY INTAKE
+      mostRecentInputValue: DAILY INTAKE
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        paletteColorName: tertiary400
+      mostRecentInputValue:
+        paletteColorName: tertiary400
+    letterSpacingValue:
+      inputValue: 1
+      mostRecentInputValue: 1
+    fontWeightValue:
+      inputValue: w500
+  responsiveVisibility: {}
+parameterValues: {}

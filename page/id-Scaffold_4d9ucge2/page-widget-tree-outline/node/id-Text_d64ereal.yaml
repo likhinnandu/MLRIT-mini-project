@@ -1,0 +1,21 @@
+key: Text_d64ereal
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    translationIdentifier:
+      key: bg7m4hdb
+    selectable: false
+    textValue:
+      inputValue: "64"
+      mostRecentInputValue: "64"
+    fontSizeValue:
+      inputValue: 36
+      mostRecentInputValue: 36
+    colorValue:
+      inputValue:
+        value: "4294967295"
+      mostRecentInputValue:
+        value: "4294967295"
+  responsiveVisibility: {}
+parameterValues: {}

@@ -1,0 +1,38 @@
+key: Image_vlzu2l9c
+type: Image
+props:
+  image:
+    type: FF_IMAGE_TYPE_ASSET
+    fit: FF_BOX_FIT_CONTAIN
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+      height:
+        pixelsValue:
+          inputValue: 100
+          mostRecentInputValue: 100
+    cacheFadeDuration: 500
+    pathValue:
+      inputValue: projects/fit-me-nzsmbv/assets/cgsptkgqrzrc/watermelonn.png
+      mostRecentInputValue: projects/fit-me-nzsmbv/assets/cgsptkgqrzrc/watermelonn.png
+  padding:
+    type: FF_PADDING_ALL
+    leftValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    topValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    rightValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    bottomValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    allValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+  responsiveVisibility: {}
+parameterValues: {}
